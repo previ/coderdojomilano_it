@@ -1,0 +1,72 @@
+---
+layout: event
+status: publish
+published: true
+title: Player
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2461
+wordpress_url: http://coderdojomilano.it/?post_type=event&#038;p=2461
+date: '2015-01-08 18:19:09 +0100'
+date_gmt: '2015-01-08 16:19:09 +0100'
+categories: []
+tags: []
+comments: []
+---
+<p>&nbsp;<br />
+&nbsp;</p>
+<h3 style="text-align: center;"><span style="color: #2EA3F2;">Coderdojo Milano compie 2 anni. Festeggia con noi!<&#47;span><&#47;h3><br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<h4><b>Istruzioni<&#47;b><&#47;h4><br />
+Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentir&agrave; di richiedere pi&ugrave; ticket contemporaneamente.</p>
+<p><i>Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.<&#47;i></p>
+<p><i>A causa dei posti limitati non potremo consentire a chi &egrave; sprovvisto di registrazione di partecipare all'evento, <&#47;i><span style="color: #ff0000;"><i>senza alcuna eccezione<&#47;i><i>.<&#47;i><&#47;span></p>
+<p><strong><strong>&nbsp;<&#47;strong><&#47;strong></p>
+<p><b>Ricordate di portare<&#47;b>:</p>
+<ul>
+<li>un PC portatile dotato di <span style="color: #008000;"><b>alimentatore e mouse<&#47;b><&#47;span> per ogni partecipante<&#47;li>
+<li>un accompagnatore<&#47;li>
+<li>una merenda<&#47;li><br />
+<&#47;ul><br />
+<b><i>ATTENZIONE<&#47;i><&#47;b><i>: i ragazzi di et&agrave; inferiore a 16 anni devono essere accompagnati da un adulto che <&#47;i><span style="color: #ff0000;"><i>deve essere presente durante tutta la durata dell'evento<&#47;i>.<&#47;span></p>
+<p>&nbsp;</p>
+<h4><strong>Programma<&#47;strong><&#47;h4><br />
+&nbsp;<br />
+Sono previste diverse attivit&agrave;.&nbsp;<span style="color: #ff0000;"><strong>Durante la procedura di iscrizione vi verr&agrave; chiesto di indicare una preferenza<&#47;strong>.<&#47;span> La scelta non &egrave; vincolante, e durante l'evento sar&agrave; comunque possibile spostarsi da un'attivit&agrave; all'altra, ma conoscere in anticipo le vostre preferenze ci aiuter&agrave; ad organizzare tutto al meglio.<br />
+&nbsp;<br />
+<strong>Ecco le opzioni disponibili in fase di iscrizione:<&#47;strong><br />
+&nbsp;<br />
+<strong>Scratch base<&#47;strong><br />
+Per chi viene per la prima volta al Coderdojo e non conosce Scratch. Verranno spiegate le basi della programmazione con Scratch.<br />
+&nbsp;<br />
+<strong>Free Scratch<&#47;strong><br />
+Per chi conosce gi&agrave; Scratch e vuole sviluppare un proprio progetto in autonomia, col supporto dei mentor<br />
+&nbsp;<br />
+<strong>Sensor Scratch<&#47;strong><br />
+Per chi conosce gi&agrave; un po' di Scratch e vuole giocare con dei sensori in grado di "catturare" quello che succede nel mondo reale e metterlo nei programmi<br />
+&nbsp;<br />
+<strong>Circuiti Morbidi<&#47;strong><br />
+Si gioca con batterie, cavetti, motorini, led&nbsp;e tanto did&ograve; per costruire installazioni luminose, girandole elettriche, bicchierini robot e tanti altri esperimenti divertenti<br />
+&nbsp;<br />
+<strong>Bot<&#47;strong><br />
+Veri robot da programmare. Verr&agrave; mostrato come insegnare ai robot a giocare ed esplorare.<br />
+&nbsp;<br />
+<strong>HTML<&#47;strong><br />
+L'attivit&agrave; consentir&agrave; di costruire un semplice sito web in modo visuale e verranno fornite le basi di questo linguaggio<br />
+&nbsp;<br />
+<strong>Minecraft<&#47;strong><br />
+Per gli amanti del famoso videogioco che vogliono imparare a personalizzarlo creando i propri mod<br />
+<strong>ATTENZIONE:<&#47;strong> chi intende lavorare con MINECRAFT deve aver acquistato precedentemente il gioco e assicurarsi che "giri" sul portatile.<br />
+&nbsp;<br />
+<strong>Non so cosa fare<&#47;strong><br />
+Scegliete questa voce se siete confusi dalle troppe opzioni<br />
+&nbsp;<br />
+<strong>Le iscrizioni su <a href="https:&#47;&#47;www.eventbrite.it&#47;e&#47;biglietti-player-by-coderdojo-milano-tag-14-febbraio-2015-15541596333" target="_blank">Eventbrite&nbsp;<&#47;a>si apriranno luned&igrave; &nbsp;9 febbraio alle ore 15:30<&#47;strong></p>
+<p>&nbsp;<&#47;blockquote></p>

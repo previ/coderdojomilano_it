@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: FAQ
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 620
+wordpress_url: http://coderdojomilano.it/?p=620
+date: '2013-04-02 08:43:35 +0200'
+date_gmt: '2013-04-02 07:43:35 +0200'
+categories: []
+tags: []
+comments: []
+---
+

@@ -1,0 +1,63 @@
+---
+layout: event
+status: publish
+published: true
+title: Player
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2198
+wordpress_url: http://coderdojomilano.it/?post_type=event&#038;p=2198
+date: '2014-08-25 10:39:51 +0200'
+date_gmt: '2014-08-25 08:39:51 +0200'
+categories: []
+tags: []
+comments: []
+---
+<blockquote>
+<h4><b>Programma <&#47;b><&#47;h4><br />
+Sabato 13 dicembre Coderdojo festeggia con voi! Sar&agrave; un'occasione speciale per la quale abbiamo previsto molte attivit&agrave; diverse. <span style="color: #ff0000;"><b>Durante la procedura di iscrizione vi verr&agrave; chiesto di indicare una preferenza<&#47;b>.<&#47;span> La scelta non &egrave; vincolante, e durante l'evento sar&agrave; comunque possibile spostarsi da un'attivit&agrave; all'altra, ma conoscere in anticipo le vostre preferenze ci aiuter&agrave; ad organizzare tutto al meglio. Ecco le opzioni disponibili in fase di iscrizione:</p>
+<p>&nbsp;</p>
+<ul>
+<li><b>Prima volta al Coderdojo<&#47;b><br />
+Per chi viene per la prima volta al Coderdojo e non conosce Scratch. Verranno spiegate le basi della programmazione con Scratch.<&#47;li></p>
+<li><b>Prima volta al Coderdojo-Junior<&#47;b><br />
+Solo per bambini dai 5 ai 6 anni, per imparare la programmazione con Scratch-Junior su tablet. ATTENZIONE: richiede un iPad Apple.<&#47;li></p>
+<li><b>Sensor-Scratch<&#47;b><br />
+Per chi conosce gi&agrave; un po' di Scratch e vuole giocare con dei sensori in grado di "catturare" quello che succede nel mondo reale e metterlo nei programmi<&#47;li></p>
+<li><b>Scratch Free<&#47;b><br />
+Per chi conosce gi&agrave; Scratch e vuole sviluppare un proprio progetto in autonomia, col supporto dei mentor<&#47;li></p>
+<li><b>Circuiti Morbidi<&#47;b><br />
+Si gioca con batterie, cavetti, motorini, led &nbsp;e tanto did&ograve; per costruire luminarie di natale, girandole elettriche, bicchierini robot e tanti altri esperimenti divertenti<&#47;li></p>
+<li><b>Bot di capodanno<&#47;b><br />
+Veri robot da programmare. Verr&agrave; mostrato come insegnare ai robot a giocare ed esplorare.<&#47;li></p>
+<li><b>ComputerLab<&#47;b><br />
+Come &egrave; fatto un computer? Durante questa l'attivit&agrave; sar&agrave; possibile impararlo costruendo fisicamente un computer.<&#47;li></p>
+<li><b>Minecraft<&#47;b><br />
+Per gli amanti del famoso videogioco che vogliono imparare a personalizzarlo creando i propri mod<br />
+ATTENZIONE: chi intende lavorare con MINECRAFT deve aver acquistato precedentemente il gioco e assicurarsi che "giri" sul portatile.<&#47;li></p>
+<li><b>HTML<&#47;b><br />
+L'attivit&agrave; consentir&agrave; di costruire un semplice sito web in modo visuale e verranno fornite le basi di questo linguaggio<&#47;li></p>
+<li><strong>Non so cosa fare<br />
+<&#47;strong>Scegliete questa voce se siete confusi dalle troppe opzioni<&#47;li><br />
+<&#47;ul><br />
+<b>Istruzioni<&#47;b></p>
+<p>Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentir&agrave; di richiedere pi&ugrave; ticket contemporaneamente.</p>
+<p><i>Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.<&#47;i></p>
+<p><i>A causa dei posti limitati non potremo consentire a chi &egrave; sprovvisto di registrazione di partecipare all'evento, <&#47;i><span style="color: #ff0000;"><i>senza alcuna eccezione<&#47;i><i>.<&#47;i><&#47;span></p>
+<p><strong><strong>&nbsp;<&#47;strong><&#47;strong></p>
+<p><b>Ricordate di portare<&#47;b>:</p>
+<ul>
+<li>Chi partecipa a Scratch-Junior: un iPad dotato di <span style="color: #008000;"><b>alimentatore<&#47;b><&#47;span> per ogni partecipante<&#47;li>
+<li>Chi partecipa alle altre attivit&agrave;: un PC portatile dotato di <span style="color: #008000;"><b>alimentatore e mouse<&#47;b><&#47;span> per ogni partecipante<&#47;li>
+<li>un accompagnatore<&#47;li>
+<li>una merenda<&#47;li><br />
+<&#47;ul><br />
+<b><i>ATTENZIONE<&#47;i><&#47;b><i>: i ragazzi di et&agrave; inferiore a 16 anni devono essere accompagnati da un adulto che <&#47;i><span style="color: #ff0000;"><i>deve essere presente durante tutta la durata dell'evento<&#47;i>.<&#47;span></p>
+<p><strong><strong>&nbsp;<&#47;strong><&#47;strong></p>
+<p style="font-size: 16px;"><strong>Le &nbsp;iscrizioni su <a href="https:&#47;&#47;www.eventbrite.it&#47;e&#47;biglietti-player-by-coderdojo-milano-tag-13-dicembre-2014-14656161975" target="_blank">Eventbrite&nbsp;<&#47;a>apriranno martedi 9 dicembre alle ore 15.30.<&#47;strong><&#47;p><br />
+&nbsp;<&#47;blockquote></p>

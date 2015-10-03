@@ -1,0 +1,21 @@
+---
+layout: location
+status: publish
+published: true
+title: Fastweb
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 1824
+wordpress_url: http://coderdojomilano.it/locations/fastweb/
+date: '2014-03-21 11:30:47 +0100'
+date_gmt: '2014-03-21 09:30:47 +0100'
+categories: []
+tags: []
+comments: []
+---
+

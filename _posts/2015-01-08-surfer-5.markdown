@@ -1,0 +1,41 @@
+---
+layout: event
+status: publish
+published: true
+title: Surfer
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2458
+wordpress_url: http://coderdojomilano.it/?post_type=event&#038;p=2458
+date: '2015-01-08 18:17:06 +0100'
+date_gmt: '2015-01-08 16:17:06 +0100'
+categories: []
+tags: []
+comments: []
+---
+<blockquote>L'evento &egrave;<strong>&nbsp;dedicato ai ragazzi di et&agrave; compresa tra gli 11 e i 17 anni<&#47;strong>&nbsp;che&nbsp;vogliono realizzare&nbsp;un progetto web,&nbsp;desktop&nbsp;o mobile.<br />
+&nbsp;<br />
+I ragazzi e le ragazze lavoreranno in piccoli gruppi e sceglieranno linguaggi e tools di riferimento in base alle necessit&agrave; del progetto.<br />
+&nbsp;<br />
+Come in una vera software house affronteranno tutte le sfide dello sviluppo: dalla A di "ansia da foglio bianco" alla Z di "zippa i files".<br />
+&nbsp;<br />
+Serviranno una buona squadra e tanto impegno, ma sar&agrave; un'avventura indimenticabile!<br />
+&nbsp;</p>
+<p>Vi invitiamo a richiedere&nbsp;un ticket per ogni partecipante: la procedura consentir&agrave; di richiedere pi&ugrave; ticket contemporaneamente.</p>
+<p>&nbsp;</p>
+<p style="font-style: italic;">Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.<&#47;p></p>
+<p style="font-style: italic;">A causa dei posti limitati non potremo consentire a chi &egrave; sprovvisto di registrazione di partecipare all'evento,&nbsp;<span style="color: #ff0000;">senza alcuna eccezione.<&#47;span><&#47;p><br />
+&nbsp;</p>
+<p style="font-style: italic;"><strong>Ricordate di portare:<&#47;strong><&#47;p></p>
+<ul>
+<li>un PC portatile dotato di&nbsp;<span style="font-weight: bold;"><span style="color: #008000;">alimentatore e mouse<&#47;span><&#47;span>&nbsp;per ogni partecipante<&#47;li>
+<li>una merenda<&#47;li>
+<li>un accompagnatore<&#47;li><br />
+<&#47;ul></p>
+<p style="font-style: italic;"><span style="font-weight: bold;">ATTENZIONE:<&#47;span>&nbsp;i ragazzi di et&agrave; inferiore a 16 anni devono essere accompagnati da un adulto che<span style="color: #ff0000;">&nbsp;deve essere presente durante tutta la durata dell'evento.<&#47;span><&#47;p><br />
+Registrazioni su <a href="https:&#47;&#47;www.eventbrite.it&#47;e&#47;biglietti-surfer-by-coderdojo-milano-workingcapital-15541709672" target="_blank">Eventbrite <&#47;a>aperte da luned&igrave; 16 febbraio alle ore 15.30<&#47;blockquote></p>

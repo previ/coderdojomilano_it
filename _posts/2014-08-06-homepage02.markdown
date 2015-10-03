@@ -1,0 +1,35 @@
+---
+layout: et_pb_layout
+status: publish
+published: true
+title: homepage02
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2023
+wordpress_url: http://coderdojomilano.it/et_pb_layout/homepage02/
+date: '2014-08-06 12:19:30 +0200'
+date_gmt: '2014-08-06 10:19:30 +0200'
+categories: []
+tags: []
+comments: []
+---
+<p>[et_pb_section fullwidth="on"][et_pb_fullwidth_slider admin_label="Fullwidth Slider" show_arrows="on" show_pagination="on" auto="off" parallax="on" parallax_method="off"][et_pb_slide heading="Cos'&egrave; Coderdojo" button_text="Leggi" button_link="http:&#47;&#47;coderdojomilano.it&#47;about&#47;" background_color="#1e73be" alignment="center" background_layout="dark" video_bg_width="1920" video_bg_height="638" &#47;][et_pb_slide heading="I Mentors di Coderdojo Milano" button_text="chi siamo" button_link="http:&#47;&#47;coderdojomilano.it&#47;chi-siamo&#47;" background_color="#0b8c00" alignment="center" background_layout="dark" &#47;][et_pb_slide heading="Le 7 Regole d'Oro per il Mentor" button_text="Leggi" button_link="http:&#47;&#47;coderdojomilano.it&#47;le-7-regole-doro-per-il-mentor&#47;" background_color="#dd8500" alignment="center" background_layout="dark" &#47;][&#47;et_pb_fullwidth_slider][&#47;et_pb_section][et_pb_section fullwidth="off"][et_pb_row][et_pb_column type="4_4"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left"]<&#47;p><br />
+<h1 style="text-align: center;">Ultimi post<&#47;h1>
+<p>[&#47;et_pb_text][et_pb_blog admin_label="Blog" fullwidth="off" posts_number="3" meta_date="M j, Y" show_thumbnail="on" show_content="off" show_more="off" show_author="on" show_date="on" show_categories="on" show_pagination="off" background_layout="light" &#47;][et_pb_text admin_label="Text" background_layout="light" text_orientation="left"]<&#47;p><br />
+<h1 style="text-align: center;">I nostri Tutorial<&#47;h1>
+<p>[&#47;et_pb_text][et_pb_blog admin_label="Blog" fullwidth="off" posts_number="3" include_categories="13" meta_date="M j, Y" show_thumbnail="on" show_content="off" show_more="off" show_author="on" show_date="on" show_categories="on" show_pagination="off" background_layout="light" &#47;][&#47;et_pb_column][&#47;et_pb_row][et_pb_row][et_pb_column type="1_3"][et_pb_blog admin_label="Blog" fullwidth="off" posts_number="1" include_categories="17" meta_date="M j, Y" show_thumbnail="on" show_content="off" show_more="off" show_author="on" show_date="on" show_categories="on" show_pagination="off" background_layout="light" &#47;][&#47;et_pb_column][et_pb_column type="1_3"][et_pb_blog admin_label="Blog" fullwidth="off" posts_number="1" include_categories="16" meta_date="M j, Y" show_thumbnail="on" show_content="off" show_more="off" show_author="on" show_date="on" show_categories="on" show_pagination="off" background_layout="light" &#47;][&#47;et_pb_column][et_pb_column type="1_3"][et_pb_blog admin_label="Blog" fullwidth="off" posts_number="1" include_categories="12" meta_date="M j, Y" show_thumbnail="on" show_content="off" show_more="off" show_author="on" show_date="on" show_categories="on" show_pagination="off" background_layout="light" &#47;][&#47;et_pb_column][&#47;et_pb_row][&#47;et_pb_section][et_pb_section fullwidth="off" background_color="#1fbf00" inner_shadow="on" parallax="on" transparent_background="off" parallax_method="off"][et_pb_row][et_pb_column type="4_4"][et_pb_cta admin_label="Call To Action" button_url="http:&#47;&#47;coderdojomilano.it&#47;mentors&#47;" button_text="Scopri come" background_color="#7ebec5" use_background_color="off" background_layout="dark" text_orientation="center" title="Diventa Mentor anche tu!"]<&#47;p><br />
+<h1>&nbsp;<&#47;h1>
+<p>[&#47;et_pb_cta][&#47;et_pb_column][&#47;et_pb_row][&#47;et_pb_section][et_pb_section fullwidth="on" specialty="off"][et_pb_fullwidth_map admin_label="Fullwidth Map" zoom_level="17" address_lat="45.496909267206014" address_lng="9.220831529361018" mouse_wheel="off"][et_pb_map_pin title="Tag Milano" pin_address="Via Merano, 14-16, 20127 Milano, Italia" pin_address_lat="45.49748833143765" pin_address_lng="9.221249953967344"]<&#47;p>
+<p>Talent Garden Milano<&#47;p>
+<p>[&#47;et_pb_map_pin][&#47;et_pb_fullwidth_map][&#47;et_pb_section][et_pb_section fullwidth="off" specialty="off"][et_pb_row][et_pb_column type="3_4"][et_pb_contact_form admin_label="Contact Form" captcha="on" email="coderdojomilano@gmail.com" &#47;][&#47;et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left"]<&#47;p><br />
+<h2>&nbsp;Per Info, scrivici!<&#47;h2>
+<p>Per informazioni generali usa questo form, altrimenti <a href="http:&#47;&#47;coderdojomilano.it&#47;contatti&#47;">clicca QUI<&#47;a><&#47;p>
+<p>&nbsp;<&#47;p>
+<p>&nbsp;<&#47;p>
+<p>&nbsp;<&#47;p>
+<p>[&#47;et_pb_text][et_pb_social_media_follow admin_label="Social Media Follow" link_shape="rounded_rectangle" background_layout="light" url_new_window="on" follow_button="off"][et_pb_social_media_follow_network social_network="facebook" url="https:&#47;&#47;www.facebook.com&#47;CoderDojoMi" bg_color="#3b5998"]facebook[&#47;et_pb_social_media_follow_network][et_pb_social_media_follow_network social_network="google-plus" url="https:&#47;&#47;plus.google.com&#47;+CoderdojomilanoIt&#47;posts" bg_color="#dd4b39"]Google+[&#47;et_pb_social_media_follow_network][et_pb_social_media_follow_network social_network="flikr" url="https:&#47;&#47;www.flickr.com&#47;photos&#47;98942956@N02&#47;" bg_color="#ff0084"]flikr[&#47;et_pb_social_media_follow_network][&#47;et_pb_social_media_follow][&#47;et_pb_column][&#47;et_pb_row][&#47;et_pb_section]<&#47;p></p>

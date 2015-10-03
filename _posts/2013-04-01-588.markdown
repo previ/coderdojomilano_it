@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Calendario eventi
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 588
+wordpress_url: http://coderdojomilano.it/?p=588
+date: '2013-04-01 20:14:08 +0200'
+date_gmt: '2013-04-01 19:14:08 +0200'
+categories: []
+tags: []
+comments: []
+---
+

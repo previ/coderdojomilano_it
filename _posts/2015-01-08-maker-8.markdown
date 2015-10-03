@@ -1,0 +1,44 @@
+---
+layout: event
+status: publish
+published: true
+title: Maker
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2465
+wordpress_url: http://coderdojomilano.it/?post_type=event&#038;p=2465
+date: '2015-01-08 18:23:58 +0100'
+date_gmt: '2015-01-08 16:23:58 +0100'
+categories: []
+tags: []
+comments: []
+---
+<blockquote><strong>Le registrazioni su <a href="https:&#47;&#47;www.eventbrite.it&#47;e&#47;biglietti-maker-by-coderdojo-milano-wemake-16362527761" target="_blank">Eventbrite <&#47;a>si apriranno luned&igrave; 13 aprile alle ore 15.30.<&#47;strong><br />
+&nbsp;<br />
+L'evento &egrave;<strong>&nbsp;<&#47;strong><strong>dedicato esclusivamente ai ragazzi di et&agrave; compresa tra i 13 &nbsp;e i 17 anni<&#47;strong>&nbsp;che desiderano utilizzare la programmazione per interagire con il mondo che li circonda.<br />
+&nbsp;<br />
+Per chi vuole realizzare progetti che fanno uso di sensori, motori, display e ogni possibile dispositivo hardware che vi viene in mente, in questo dojo abbiamo a disposizione board programmabili Rasperry Pi e Arduino che possono soddisfare anche i maker pi&ugrave; esigenti.<br />
+&nbsp;<br />
+I linguaggi utilizzati per realizzare i progetti saranno Python, Java, Javascript, C&#47;C++.<br />
+&nbsp;<br />
+Ragazzi se volete realizzare robot in grado di seguire un percorso prestabilito, che parlano o usano la telecamera per riconoscere gli ostacoli oppure robot che non servono assolutamente a nulla &hellip; siete nel dojo giusto!<br />
+&nbsp;<br />
+E se a casa avete gi&agrave; una board Arduino o Raspeberry Pi, dei sensori, led o altro materiale per realizzare il vostro progetto portateli con voi.</p>
+<p>&nbsp;</p>
+<p>Vi invitiamo a richiedere&nbsp;un ticket per ogni partecipante: la procedura consentir&agrave; di richiedere pi&ugrave; ticket contemporaneamente.Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.A causa dei posti limitati non potremo consentire a chi &egrave; sprovvisto di registrazione di partecipare all'evento,&nbsp;<span style="color: #ff0000;">senza alcuna eccezione.<&#47;span></p>
+<p>&nbsp;</p>
+<p><strong>Ricordate di portare:<&#47;strong></p>
+<ul>
+<li>un PC portatile dotato di&nbsp;<span style="font-weight: bold;"><span style="color: #008000;">alimentatore e mouse<&#47;span><&#47;span>&nbsp;per ogni partecipante<&#47;li>
+<li>una merenda<&#47;li>
+<li>un accompagnatore<&#47;li><br />
+<&#47;ul><br />
+&nbsp;</p>
+<p><span style="font-weight: bold;">ATTENZIONE:<&#47;span>&nbsp;i ragazzi di et&agrave; inferiore a 16 anni devono essere accompagnati da un adulto che<span style="color: #ff0000;">&nbsp;deve essere presente durante tutta la durata dell'evento.<&#47;span></p>
+<p>&nbsp;</p>
+<p>&nbsp;<&#47;blockquote></p>

@@ -1,0 +1,21 @@
+---
+layout: location
+status: publish
+published: true
+title: Autodesk
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 1336
+wordpress_url: http://coderdojomilano.it/locations/autodesk/
+date: '2013-06-10 20:20:49 +0200'
+date_gmt: '2013-06-10 18:20:49 +0200'
+categories: []
+tags: []
+comments: []
+---
+

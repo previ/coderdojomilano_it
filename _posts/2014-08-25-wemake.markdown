@@ -1,0 +1,21 @@
+---
+layout: location
+status: publish
+published: true
+title: WeMake
+author:
+  display_name: CoderDojo Milano
+  login: admin
+  email: coderdojomi@gmail.com
+  url: ''
+author_login: admin
+author_email: coderdojomi@gmail.com
+wordpress_id: 2203
+wordpress_url: http://coderdojomilano.it/?post_type=location&#038;p=2203
+date: '2014-08-25 10:53:57 +0200'
+date_gmt: '2014-08-25 08:53:57 +0200'
+categories: []
+tags: []
+comments: []
+---
+
