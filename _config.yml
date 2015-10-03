@@ -10,10 +10,10 @@ description: > # this means to ignore newlines until "url:". One indent required
   Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "http://coderdojomilano.it"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: coderdojomi
+github_username:  coderdojomi
 
 default_image: /img/opentheme-workflow.png
 
@@ -29,6 +29,7 @@ lsi: true # Lexical analysis (true) takes longer for higher quality
 
 # Exclude from Jekyll processing
 
+LSI: false
 exclude: ["vendor", "README.md", "node_modules", "gulpfile.js", "package.json"]
 
 # Lists
