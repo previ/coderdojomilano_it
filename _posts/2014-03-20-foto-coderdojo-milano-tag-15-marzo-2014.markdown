@@ -1,23 +1,18 @@
 ---
+author: admin
+comments: false
+date: 2014-03-20 09:03:03+00:00
 layout: post
-status: publish
-published: true
+slug: foto-coderdojo-milano-tag-15-marzo-2014
 title: 'Foto: Coderdojo Milano @TAG 15 Marzo 2014'
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
 wordpress_id: 1816
-wordpress_url: http://coderdojomilano.it/?p=1816
-date: '2014-03-20 11:03:03 +0100'
-date_gmt: '2014-03-20 09:03:03 +0100'
 categories:
 - Eventi passati
-tags: []
-comments: []
 ---
-<blockquote>Coderdojo Milano sabato 15 &nbsp;Marzo 2014 in TAG<&#47;blockquote></p>
-<div class="flickr"><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;98942956@N02&#47;sets&#47;72157642611325223&#47;" target="_blank"><img alt="" src="http:&#47;&#47;coderdojomilano.it&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;dojo_marzo_small.jpg" &#47;><span class="flickrText">Clicca qui per vedere le foto <&#47;span><span class="flickrName">flickr.com<&#47;span><&#47;a><&#47;div></p>
+
+<blockquote>Coderdojo Milano sabato 15  Marzo 2014 in TAG</blockquote>
+
+
+
+
+[![](http://coderdojomilano.it/wp-content/uploads/2014/03/dojo_marzo_small.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157642611325223/)

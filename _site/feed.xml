@@ -1,657 +1,406 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Powerful New Theme for GitHub Pages | OpenTheme.co</title>
-    <description>Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
-</description>
-    <link>http://opentheme.co/</link>
-    <atom:link href="http://opentheme.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Oct 2015 23:04:42 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2015 23:04:42 +0200</lastBuildDate>
+    <title>CoderDojo Milano.</title>
+    <description>Awesome description of CoderDojo Milano site</description>
+    <link>http://previ.github.io/coderdojomilano_it/</link>
+    <atom:link href="http://previ.github.io/coderdojomilano_it/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 04 Oct 2015 23:49:44 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2015 23:49:44 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Geo Visualization - Sandy and Airports</title>
-        <description>&lt;div id=&quot;map-canvas&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;ui form&quot;&gt;
-  &lt;div class=&quot;field&quot;&gt;
-    &lt;div class=&quot;ui right action input fluid&quot;&gt;
-      &lt;input type=&quot;text&quot; id=&quot;fusion-grid-filter&quot; placeholder=&quot;&quot; onchange=&quot;drawTable()&quot; /&gt;
-      &lt;div class=&quot;ui right teal mini labeled icon button&quot; onclick=&quot;drawTable()&quot;&gt;
-        &lt;i class=&quot;search icon&quot;&gt;&lt;/i&gt;
-        Filter
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+        <title>News: Quiz  - TUTORIAL per SCRATCH 2.0 e MakeyMakey</title>
+        <description>&lt;h5 id=&quot;tutorial-per-scratch-20-e-makeymakey-di-ernesto&quot;&gt;TUTORIAL per SCRATCH 2.0 e MakeyMakey di Ernesto&lt;/h5&gt;
 
-&lt;div id=&quot;fusion-grid&quot;&gt; &lt;/div&gt;
+&lt;p&gt;Questo tutorial insegna come creare, con Scratch e la MakeyMakey, una sfida tra due giocatori a colpi di quiz.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Verrà presentata una serie di domande con due risposte possibili. Ogni giocatore ha a disposizione due pulsanti corrispondenti alle due possibili risposte. Il giocatore che per primo dà la risposta si vede assegnare un punto se la risposta è corretta, o assegna un punto all’avversario se la risposta è errata.&lt;/p&gt;
 
-&lt;p&gt;This app was created with “zero coding”. It is created simply from configuration, 
-using live open data sources, and reusing plugins created for OpenTheme.&lt;/p&gt;
+&lt;p&gt;Vai alla Guida, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0cG9QOS1vWndVczg/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; ---
-&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt;   # App Options
-&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt;   layout: fusion
-&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;   title: Geo Visualization - Sandy and Airports
-&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;   description: KML Map, Fusion Grid displaying live data...
-&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;   category: app
-&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 
-&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;   # Grid Options
-&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;   select: &amp;quot;col1, col2 as Location, col4&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;   from: &amp;quot;1hcqyroMjYXZfCqDTUq2nmhgwzG13W-BRzNXyaEk&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;   filter: &amp;quot;Location&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;   
-&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;   # KML Options
-&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;   layers:
-&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;     - kml: &amp;quot;http://opentheme.co/static-data/WorldAirports.kml&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;     - kml: &amp;quot;http://opentheme.co/static-data/287257.kml&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;   ---
-&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;   
-&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt;   &lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;kml-viewer.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt;   &lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;fusion-filter-grid.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Per scaricare il progetto di partenza, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0STg1VWxtdHBOVmc/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Per scaricare il progetto finito, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0UUMzSkJ3cUJOVGs/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per vedere il progetto online, &lt;a href=&quot;http://scratch.mit.edu/projects/53734736/&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2015/03/quiz.jpg&quot; alt=&quot;quiz&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 07 Jan 2015 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/app/2015/01/07/geo-visualization-sandy-and-airports/</link>
-        <guid isPermaLink="true">http://opentheme.co/app/2015/01/07/geo-visualization-sandy-and-airports/</guid>
+        <pubDate>Mon, 23 Mar 2015 11:08:37 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/quiz-tutorial-per-scratch-2-0-e-makeymakey</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/quiz-tutorial-per-scratch-2-0-e-makeymakey</guid>
         
         
-        <category>app</category>
+        <category>news</category>
+        
+        <category>scratch</category>
+        
+        <category>tutorial</category>
         
       </item>
     
       <item>
-        <title>Fusion Map Grid Chart - Coffee Production</title>
-        <description>&lt;p&gt;This is a coffee production sample app created using Fusion Tables. 
-Filter on part or full country name, or common text in multiple countries to update custom dashboard chart.&lt;/p&gt;
+        <title>News: SCRATCH 2.0 e MakeyMakey - BUON COMPLEANNO</title>
+        <description>&lt;h5 id=&quot;tutorial-per-scratch-20-e-makeymakey-di-ernesto&quot;&gt;TUTORIAL per SCRATCH 2.0 e MakeyMakey di Ernesto&lt;/h5&gt;
 
-&lt;p&gt;This app example adds embed iframe from Fusion Tables for visualizing the map representing the data.
-Only change required is width/height values to match page theme. 
-Suggested 100% width for responsive view. Height to adjust to map data.&lt;/p&gt;
+&lt;p&gt;Questo tutorial insegna come creare un gioco con Scratch e la MakeyMakey in cui si deve far correre un anello lungo un tubo contorto, senza fargli toccare il tubo stesso.
+Visto che in questo caso è stato preparato per una festa di compleanno, il percorso seguirà la sagoma di una torta con le candeline.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://www.google.com/fusiontables/embedviz?q=select+col11+from+12Ky51FcTdAPYsnP42k3N4AtEB8EcxxfLMJ5rAnU&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=8.769762156504258&amp;amp;lng=91.99385124999992&amp;amp;t=1&amp;amp;z=2&amp;amp;l=col11&amp;amp;y=3&amp;amp;tmplt=4&amp;amp;hml=GEOCODABLE&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Vai alla Guida, &lt;a href=&quot;https://drive.google.com/file/d/0B3FGUG-ENxwNUmJLcU1YSFVGamc/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;ui form&quot;&gt;
-  &lt;div class=&quot;field&quot;&gt;
-    &lt;div class=&quot;ui right action input fluid&quot;&gt;
-      &lt;input type=&quot;text&quot; id=&quot;fusion-grid-filter&quot; placeholder=&quot;&quot; onchange=&quot;drawTable()&quot; /&gt;
-      &lt;div class=&quot;ui right teal mini labeled icon button&quot; onclick=&quot;drawTable()&quot;&gt;
-        &lt;i class=&quot;search icon&quot;&gt;&lt;/i&gt;
-        Filter
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;Per scaricare il progetto di partenza, &lt;a href=&quot;https://drive.google.com/file/d/0B3FGUG-ENxwNWEVKVFZQV3I1M3c/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
-&lt;div id=&quot;fusion-grid&quot;&gt; &lt;/div&gt;
+&lt;p&gt;Per scaricare il progetto finito, &lt;a href=&quot;https://drive.google.com/file/d/0B3FGUG-ENxwNM3VKeFdlOXlveUk/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
-&lt;div id=&quot;fusion-bar-chart&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Per vedere il progetto online, &lt;a href=&quot;http://scratch.mit.edu/projects/53735028/&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2015/02/ScreenShot-e1424959017965.jpg&quot; alt=&quot;ScreenShot&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 20 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/app/2014/12/20/fusion-map-grid-chart-coffee-production/</link>
-        <guid isPermaLink="true">http://opentheme.co/app/2014/12/20/fusion-map-grid-chart-coffee-production/</guid>
+        <pubDate>Thu, 26 Feb 2015 14:58:36 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/scratch-2-0-e-makeymakey-buon-compleanno</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/scratch-2-0-e-makeymakey-buon-compleanno</guid>
         
         
-        <category>app</category>
+        <category>news</category>
+        
+        <category>scratch</category>
+        
+        <category>tutorial</category>
         
       </item>
     
       <item>
-        <title>Fusion Grid Chart - Coffee Production</title>
-        <description>&lt;p&gt;This is a coffee production sample app created using Fusion Tables. 
-Filter on part or full country name, or common text in multiple countries to update custom dashboard chart.&lt;/p&gt;
-
-&lt;p&gt;This app example adds only three Frontmatter values to Fusion Grid app. 
-Chart type, Horizontal Axis Title to compare values, Custom height of the chart.&lt;/p&gt;
-
-&lt;div class=&quot;ui form&quot;&gt;
-  &lt;div class=&quot;field&quot;&gt;
-    &lt;div class=&quot;ui right action input fluid&quot;&gt;
-      &lt;input type=&quot;text&quot; id=&quot;fusion-grid-filter&quot; placeholder=&quot;&quot; onchange=&quot;drawTable()&quot; /&gt;
-      &lt;div class=&quot;ui right teal mini labeled icon button&quot; onclick=&quot;drawTable()&quot;&gt;
-        &lt;i class=&quot;search icon&quot;&gt;&lt;/i&gt;
-        Filter
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&quot;fusion-grid&quot;&gt; &lt;/div&gt;
-
-&lt;div id=&quot;fusion-bar-chart&quot;&gt;&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 20 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/app/2014/12/20/fusion-grid-chart-coffee-production/</link>
-        <guid isPermaLink="true">http://opentheme.co/app/2014/12/20/fusion-grid-chart-coffee-production/</guid>
-        
-        
-        <category>app</category>
-        
-      </item>
-    
-      <item>
-        <title>Fusion Grid - Sport Scores</title>
-        <description>&lt;p&gt;This is a sport scores sample app created using Fusion Tables.&lt;/p&gt;
+        <title>News: Buon Compleanno Coderdojo Milano!</title>
+        <description>&lt;blockquote&gt;
 
-&lt;p&gt;Three simple steps to create this app.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Add one simple _include statement.&lt;/li&gt;
-  &lt;li&gt;Specify the SELECT query identifying the Fusion Table by unique id.&lt;/li&gt;
-  &lt;li&gt;Name the field to filter as Frontmatter, and you are done.&lt;/li&gt;
-&lt;/ol&gt;
+&amp;gt; 
+&amp;gt; Sabato 14 febbraio, all&#39;evento Player, abbiamo festeggiato i due anni di Coderdojo Milano!
+&amp;gt; 
+&amp;gt; 
 
-&lt;div class=&quot;ui form&quot;&gt;
-  &lt;div class=&quot;field&quot;&gt;
-    &lt;div class=&quot;ui right action input fluid&quot;&gt;
-      &lt;input type=&quot;text&quot; id=&quot;fusion-grid-filter&quot; placeholder=&quot;&quot; onchange=&quot;drawTable()&quot; /&gt;
-      &lt;div class=&quot;ui right teal mini labeled icon button&quot; onclick=&quot;drawTable()&quot;&gt;
-        &lt;i class=&quot;search icon&quot;&gt;&lt;/i&gt;
-        Filter
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 
-&lt;div id=&quot;fusion-grid&quot;&gt; &lt;/div&gt;
+&amp;gt; 
+&amp;gt; I nuovi arrivati si sono cimentati nella creazione di un gioco Scratch in tema, dove si devono accendere della candeline di una torta con... un drago! (Il tutorial si trova [qui](http://coderdojomilano.it/scratch-buono-compleanno-coderdojo-milano))
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;You can author this single page app using Markdown. Pull data source from Google Fusion Tables. 
-Visuaize and interact with the data source using Google Visualization API.&lt;/p&gt;
 
-&lt;p&gt;Features include:&lt;/p&gt;
+&amp;gt; 
+&amp;gt; Oltre alle consuete attività con Scratch, HTML, i circuiti morbidi e Minecraft, sono tornati come graditi ospiti i fantastici Bot di Roberto.
+&amp;gt; 
+&amp;gt; 
 
-&lt;ul&gt;
-  &lt;li&gt;Data grid that updates as the source data on Fusion Tables changes.&lt;/li&gt;
-  &lt;li&gt;Filter on any field within the data source.&lt;/li&gt;
-  &lt;li&gt;Filter UI control designed using Semantic UI.&lt;/li&gt;
-  &lt;li&gt;Sort any column by clicking.&lt;/li&gt;
-  &lt;li&gt;Paginate large data sets.&lt;/li&gt;
-  &lt;li&gt;Serve from GitHub using Jekyll content workflow.&lt;/li&gt;
-  &lt;li&gt;Reusable _layout for Fusion Grid Filter apps.&lt;/li&gt;
-  &lt;li&gt;Reusable _include for filter and table control.&lt;/li&gt;
-  &lt;li&gt;JS parametrized to YAML Frontmatter. No changes required for new data sources.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 19 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/app/2014/12/19/fusion-grid-sport-scores/</link>
-        <guid isPermaLink="true">http://opentheme.co/app/2014/12/19/fusion-grid-sport-scores/</guid>
-        
-        
-        <category>app</category>
-        
-      </item>
-    
-      <item>
-        <title>Content Strategy For Startup Websites</title>
-        <description>&lt;p&gt;How important is your website’s content strategy for your startup or small team?&lt;/p&gt;
-
-&lt;p&gt;OpenTheme content strategy can be a good starting point for your website. It promotes a product - a modern theme.
-The website addresses an active and vibrant target audience - GitHub community. 
-OpenTheme showcases user experience best practices - &lt;a href=&quot;http://semantic-ui.com/&quot;&gt;Semantic UI&lt;/a&gt;. 
-Websites built with OpenTheme use latest content workflow tool-chain including Jekyll and GitHub.&lt;/p&gt;
-
-&lt;p&gt;OpenTheme Content Strategy can be summarized as the 6-S guiding principles and the &lt;a href=&quot;/strategy/2014/11/29/design-goals-for-opentheme/&quot;&gt;6-R design goals&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-6-s-guiding-principles&quot;&gt;The 6-S Guiding Principles&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Snackable.&lt;/strong&gt; Provide easy, quick views for your content.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shareworthy.&lt;/strong&gt; Design content that audience wants to reuse, share.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Semantic.&lt;/strong&gt; Add structure and meaning to content. Allow humans and software to understand your content in the same way.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; ![bot](http://coderdojomilano.it/wp-content/uploads/2015/02/bot-e1424243885165.jpg)
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;&lt;strong&gt;Speedy.&lt;/strong&gt; Content publishing and presentation speedy and high performance.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Simple.&lt;/strong&gt; Keep things simple. Authoring content should be intuitive, easy, and efficient.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; Naturalmente non poteva mancare la torta. Opera del nostro &quot;pasticciere&quot; Ernesto questa torta può risultare un po&#39; indigesta da mangiare, ma in compenso è capace di suonare &quot;tanti auguri a te&quot; a richiesta!
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;&lt;strong&gt;Scalable.&lt;/strong&gt; Scaling cost-effectively for bandwidth, compute, storage, and concurrency.&lt;/p&gt;
 
-&lt;h3 id=&quot;blog-posts-used-for-theme-tutorials&quot;&gt;Blog Posts Used For Theme Tutorials&lt;/h3&gt;
+&amp;gt; 
+&amp;gt; ![torta](http://coderdojomilano.it/wp-content/uploads/2015/02/torta.jpg)
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;Long form theme tutorials or articles like this one are created using Markdown and rendered as blog posts. 
-You can add following features by adding &lt;em&gt;name: value&lt;/em&gt; pairs in the front of post content.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;layout&lt;/strong&gt; Change the layout of the post using one from &lt;em&gt;_layouts&lt;/em&gt; folder.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; E per l&#39;occasione sono arrivate anche le magliette per mentor e Ninja... davvero cool!
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;&lt;strong&gt;image&lt;/strong&gt; Add a post image. Recommend 640x300 size image which works well resized to thumbnail and when social sharing.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;tags&lt;/strong&gt; Add tags for posts related to a certain topic.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; ![magliette](http://coderdojomilano.it/wp-content/uploads/2015/02/magliette.jpg)
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;&lt;strong&gt;category&lt;/strong&gt; Further classify post. This is also picked up as a folder hierarchy for creating SEO friendly urls.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;author&lt;/strong&gt; Post author name.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; Nella seconda parte del pomeriggio abbiamo chiesto ai ragazzi di programmare una breve animazione per festeggiare l&#39;evento. Abbiamo poi unito tutti i contributi in una bella carrellata di auguri, [QUI](http://scratch.mit.edu/projects/48060796/) il progetto.
 
-&lt;p&gt;&lt;strong&gt;title&lt;/strong&gt; Post title is picked up from here. Added to HTML meta and post masthead.&lt;/p&gt;
+http://youtu.be/raUh0t3q3Jo
 
-&lt;h4 id=&quot;conventions-for-blog-posts&quot;&gt;Conventions For Blog Posts&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;date&lt;/strong&gt; Publish date for the post is now picked from file name following YYYY-MM-DD-Title-Of-Blog-Post convention. Also decides the folder hierarchy for pretty permalinks.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; 
 
-&lt;p&gt;&lt;strong&gt;_config defaults&lt;/strong&gt; You can set/change defaults for category, layout, author based on type and folder of post/pages.&lt;/p&gt;
 
-&lt;h3 id=&quot;collaborative-data-driven-documents&quot;&gt;Collaborative Data Driven Documents&lt;/h3&gt;
-
-&lt;p&gt;Modern websites rely heavily on presenting structured data. 
-As content authors, managing database servers, concurrency, performance, are concerns best handled by the platform.
-We want the flexibility to easily define, manipulate, and present our data structure.&lt;/p&gt;
-
-&lt;p&gt;One of the ways to achieve this on static websites is by using structured data documents served from GitHub.&lt;/p&gt;
-
-&lt;p&gt;OpenTheme demonstrates this feature to showcase custom plugins or reusable embeds.&lt;/p&gt;
-
-&lt;p&gt;You can see &lt;a href=&quot;/embeds/&quot;&gt;Semantic UI Card view for these embeds here&lt;/a&gt;.
-The data behind these embed is editable directly as a &lt;a href=&quot;https://github.com/open-start/opentheme/blob/master/_data/embeds.yml&quot;&gt;GitHub YAML Frontmatter document here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;ui two column stackable grid special cards&quot;&gt;
-
-
-  
-
-
-
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;div class=&quot;ui fluid card&quot;&gt;
-      &lt;div class=&quot;dimmable image&quot;&gt;
-        &lt;div class=&quot;ui inverted dimmer&quot;&gt;
-          &lt;div class=&quot;content&quot;&gt;
-            &lt;div class=&quot;center&quot;&gt;
-              &lt;a class=&quot;ui primary button&quot; href=&quot;/theme/2014/11/29/starter-post-twitter-embed/&quot;&gt;View Example&lt;/a&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;img src=&quot;/img/embed/twitter-bird.jpg&quot; alt=&quot;Embedded Tweets&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;content&quot;&gt;
-        &lt;div class=&quot;header&quot;&gt;&lt;i class=&quot;twitter icon&quot;&gt;&lt;/i&gt; Embedded Tweets&lt;/div&gt;
-        &lt;div class=&quot;meta&quot;&gt;
-          &lt;div class=&quot;group&quot;&gt;
-            Social
-            &lt;div class=&quot;ui star rating right floated&quot; data-rating=&quot;5&quot;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class=&quot;description&quot;&gt;
-          An Embedded Tweet brings brings the best content created on Twitter into your article or website.
-        &lt;/div&gt;
-      &lt;/div&gt;
-  
-      &lt;div class=&quot;extra content&quot;&gt;
-          
-          &lt;i class=&quot;expand icon embed-features&quot; data-content=&quot;Mobile Responsive&quot; data-position=&quot;top left&quot;&gt;&lt;/i&gt;
-          
-          
-          &lt;i class=&quot;github icon embed-features&quot; data-content=&quot;GitHub Friendly&quot; data-position=&quot;top left&quot;&gt;&lt;/i&gt;
-          
-          
-          
-          
-        &lt;div class=&quot;right floated created&quot;&gt;
-          &lt;a href=&quot;https://dev.twitter.com/web/embedded-tweets&quot;&gt;&lt;i class=&quot;question icon embed-features&quot; data-content=&quot;Learn More&quot; data-position=&quot;top right&quot;&gt;&lt;/i&gt;&lt;/a&gt; | 
-          &lt;a href=&quot;https://twitter.com/&quot;&gt;&lt;i class=&quot;wizard icon embed-features&quot; data-content=&quot;Create Embed&quot; data-position=&quot;top right&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  
-  
-    &lt;/div&gt;
-  &lt;/div&gt; &lt;!-- .column --&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;This is the code used in post to add the above card.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;embed-cards.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;cards&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Adding a new card view with data from more than 10 structured key-value pairs is as easy as editing an outline-like text document.&lt;/p&gt;
-
-&lt;p&gt;GitHub Pages (Jekyll pre-processor) along with Semantic UI, take care of the front-end rendering auto-magically!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/theme/2014/12/15/content-strategy-for-startup-websites/</link>
-        <guid isPermaLink="true">http://opentheme.co/theme/2014/12/15/content-strategy-for-startup-websites/</guid>
-        
-        <category>feature</category>
-        
-        <category>content</category>
-        
-        
-        <category>theme</category>
-        
-      </item>
-    
-      <item>
-        <title>Starter Post - Google Maps Embed</title>
-        <description>&lt;p&gt;You can embed Google maps using custom embed created for OpenTheme.&lt;/p&gt;
-
-&lt;p&gt;Just provide the location in url escaped format. Specify custom height for the map viewer, otherwise site default is taken.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https://www.google.com/maps/embed/v1/place
-?q=The+Shard+London
-&amp;amp;key=AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0
-&amp;amp;zoom=16
-&amp;amp;maptype=satellite&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Map width adjusts responsively to container.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;embed-google-map.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;location&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The+Shard+London&amp;quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;768&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Use this code to embed Google Map with specific height in pixels. 
-Remove the height attribute and site default is taken instead.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 05 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/theme/2014/12/05/starter-post-google-map-embed/</link>
-        <guid isPermaLink="true">http://opentheme.co/theme/2014/12/05/starter-post-google-map-embed/</guid>
-        
-        <category>maps</category>
-        
-        <category>embeds</category>
-        
-        
-        <category>theme</category>
-        
-      </item>
-    
-      <item>
-        <title>Data Driven Web Apps Using GitHub</title>
-        <description>&lt;p&gt;GitHub Pages can use JSON, YAML, CSV, Cloud stores like Fusion Tables, and Real-time databases like Firebase.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using YAML to create simple, collaborative data driven documents.&lt;/li&gt;
-  &lt;li&gt;Using CSV in GitHub Pages&lt;/li&gt;
-  &lt;li&gt;Using JSON&lt;/li&gt;
-  &lt;li&gt;Integrating Firebase&lt;/li&gt;
-  &lt;li&gt;Integrating Fusion Tables&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;yaml-data-for-embed-plugins&quot;&gt;YAML Data For Embed Plugins&lt;/h3&gt;
-
-&lt;p&gt;Simple, structured documents can be expressed in YAML or JSON. 
-Creating such documents within _data folder enables access to YAML defined structure
-as an object within Liquid markup.&lt;/p&gt;
-
-&lt;p&gt;OpenTheme uses one simple YAML data file to describe Embed plugins with 12 distinct structured attributes.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Official name of embed&lt;/span&gt;
-&lt;span class=&quot;p-Indicator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Embedded Tweets&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;# Description of embed&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;about&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;An Embedded Tweet...&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;# Social, News, Doc, RSS, Video, Photo...&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;group&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Social&lt;/span&gt;    
-  &lt;span class=&quot;c1&quot;&gt;# Image used in card view&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;/img/embed/twitter-bird.jpg&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;# Icon used in table view.&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;            
-  &lt;span class=&quot;c1&quot;&gt;# Site, Layout, Post configurable.&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;scope&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;None&lt;/span&gt;     
-  &lt;span class=&quot;c1&quot;&gt;# true/false = Is the embed UI responsive&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;responsive&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;true&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;# Does the embed work well on Github Pages&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jekyll_friendly&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;true&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;# Rating based on popularity, features&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;3&lt;/span&gt;                 
-  &lt;span class=&quot;c1&quot;&gt;# Link to to create embed&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;https://twitter.com/&lt;/span&gt;              
-  &lt;span class=&quot;c1&quot;&gt;# Link to embed docs&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;https://dev.twitter.com/web/&lt;/span&gt;               
-  &lt;span class=&quot;c1&quot;&gt;# URL to usecase&lt;/span&gt;
-  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;usecase&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;/theme/2014/11/29/starter-post/&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Semantic UI Cards are used to represent a compact, snackable view of each embed.&lt;/p&gt;
-
-&lt;div class=&quot;ui two column stackable grid special cards&quot;&gt;
-
-
-  
-
-
-
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;div class=&quot;ui fluid card&quot;&gt;
-      &lt;div class=&quot;dimmable image&quot;&gt;
-        &lt;div class=&quot;ui inverted dimmer&quot;&gt;
-          &lt;div class=&quot;content&quot;&gt;
-            &lt;div class=&quot;center&quot;&gt;
-              &lt;a class=&quot;ui primary button&quot; href=&quot;/theme/2014/11/29/starter-post-twitter-embed/&quot;&gt;View Example&lt;/a&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;img src=&quot;/img/embed/twitter-bird.jpg&quot; alt=&quot;Embedded Tweets&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;content&quot;&gt;
-        &lt;div class=&quot;header&quot;&gt;&lt;i class=&quot;twitter icon&quot;&gt;&lt;/i&gt; Embedded Tweets&lt;/div&gt;
-        &lt;div class=&quot;meta&quot;&gt;
-          &lt;div class=&quot;group&quot;&gt;
-            Social
-            &lt;div class=&quot;ui star rating right floated&quot; data-rating=&quot;5&quot;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class=&quot;description&quot;&gt;
-          An Embedded Tweet brings brings the best content created on Twitter into your article or website.
-        &lt;/div&gt;
-      &lt;/div&gt;
-  
-      &lt;div class=&quot;extra content&quot;&gt;
-          
-          &lt;i class=&quot;expand icon embed-features&quot; data-content=&quot;Mobile Responsive&quot; data-position=&quot;top left&quot;&gt;&lt;/i&gt;
-          
-          
-          &lt;i class=&quot;github icon embed-features&quot; data-content=&quot;GitHub Friendly&quot; data-position=&quot;top left&quot;&gt;&lt;/i&gt;
-          
-          
-          
-          
-        &lt;div class=&quot;right floated created&quot;&gt;
-          &lt;a href=&quot;https://dev.twitter.com/web/embedded-tweets&quot;&gt;&lt;i class=&quot;question icon embed-features&quot; data-content=&quot;Learn More&quot; data-position=&quot;top right&quot;&gt;&lt;/i&gt;&lt;/a&gt; | 
-          &lt;a href=&quot;https://twitter.com/&quot;&gt;&lt;i class=&quot;wizard icon embed-features&quot; data-content=&quot;Create Embed&quot; data-position=&quot;top right&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  
-  
-    &lt;/div&gt;
-  &lt;/div&gt; &lt;!-- .column --&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Here is an example of a card displayed using following embed code.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;# Include cards based on site.recent_items default
-  &lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;embed-cards.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-
-  # Include cards specifying count of cards
-  &lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;embed-cards.html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;cards&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Best part of describing content in YAML? It can be edited using GitHub directly.
-Eases pull requests for content, when you are collaborating with the community.&lt;/p&gt;
-
-&lt;p&gt;You can view &lt;a href=&quot;https://github.com/open-start/opentheme/blob/master/_data/embeds.yml&quot;&gt;OpenTheme embed YAML file on GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This structure can be further “relaxed” by handling default behaviour in the respective views. 
-This way only minimal number values are specified for each document (record).&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 02 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/theme/2014/12/02/data-driven-web-apps-using-github/</link>
-        <guid isPermaLink="true">http://opentheme.co/theme/2014/12/02/data-driven-web-apps-using-github/</guid>
-        
-        <category>data</category>
-        
-        <category>analytics</category>
-        
-        
-        <category>theme</category>
-        
-      </item>
-    
-      <item>
-        <title>Starter Post</title>
-        <description>&lt;p&gt;This is a starter post which you can duplicate to create your own. It demonstrates Markdown syntax, Liquid tags, and GitHub whitelisted HTML.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note.&lt;/strong&gt; Read this post as Markdown source to see the easy to 
-write &lt;a href=&quot;https://raw.githubusercontent.com/open-start/opentheme/master/_posts/blog/2014-12-1-starter-post.md&quot;&gt;syntax&lt;/a&gt; 
-for creating this HTML page.&lt;/p&gt;
-
-&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
-
-&lt;h4 id=&quot;this-is-a-level-four-heading-use-hash-symbol-and-repeat-for-levels&quot;&gt;This is a level four heading. Use hash symbol and repeat for levels.&lt;/h4&gt;
-
-&lt;p&gt;Dividers can separate sections with three dashes or minus symbols. Not to be confused with the three dashes fencing the YAML frontmatter on top of the post.&lt;/p&gt;
-
-&lt;p&gt;Code blocks can be fenced with three back-apostrophe characters like so.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;some_variable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;some_variable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Do something...&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt;   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Text formatting can include &lt;strong&gt;bold text&lt;/strong&gt;, and &lt;em&gt;emphasized text&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Block quotes start with a greater than symbol.&lt;/p&gt;
+&amp;gt; 
+&amp;gt; ### Grazie ancora a tutti quelli cha hanno partecipato a questa festa!!!
+&amp;gt; 
+&amp;gt; 
 &lt;/blockquote&gt;
-
-&lt;p&gt;Normal text can be written like in any editor.&lt;/p&gt;
-
-&lt;p&gt;New line or ENTER twice to start on next line.&lt;/p&gt;
-
-&lt;h3 id=&quot;liquid-tags-and-jekyll-variables&quot;&gt;Liquid Tags and Jekyll Variables&lt;/h3&gt;
-
-&lt;p&gt;You can use Liquid Tags to reference other posts. Here is one on &lt;a href=&quot;/strategy/2014/11/29/design-goals-for-opentheme/&quot;&gt;design goals for OpenTheme&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Site variables can be used as well. Here is the tagline for OpenTheme as descibed in a site variable - &lt;strong&gt;Amazing Websites and Hybrid Apps. Speedily!&lt;/strong&gt;.
-Page variables are also available. Title for this post is &lt;strong&gt;Starter Post&lt;/strong&gt; and it uses &lt;strong&gt;post&lt;/strong&gt; template.&lt;/p&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown cheatsheet&lt;/a&gt; is a good place to start for Markdown syntax.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/github/markup#html-sanitization&quot;&gt;GitHub Whitelisted HTML&lt;/a&gt; lists valid HTML tags that GitHub allows in your posts.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/docs/variables/&quot;&gt;Jekyll Variables&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/docs/templates/&quot;&gt;Template Use Cases for Jekyll Variables&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Shopify/liquid/wiki/Liquid-for-Designers&quot;&gt;Liquid Tags&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
-        <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/theme/2014/12/01/starter-post/</link>
-        <guid isPermaLink="true">http://opentheme.co/theme/2014/12/01/starter-post/</guid>
-        
-        <category>blog</category>
-        
-        <category>jekyll</category>
+        <pubDate>Wed, 18 Feb 2015 08:29:30 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/buon-compleanno-coderdojo-milano</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/buon-compleanno-coderdojo-milano</guid>
         
         
-        <category>theme</category>
+        <category>news</category>
         
       </item>
     
       <item>
-        <title>Starter Post - Twitter Embed</title>
-        <description>&lt;p&gt;You can add social media content as embeds.&lt;/p&gt;
+        <title>News: Scratch - Buon compleanno Coderdojo Milano</title>
+        <description>&lt;h5 id=&quot;un-videogioco-per-festeggiare-due-anni-di-coderdojo-insieme-dimaxmaz&quot;&gt;Un videogioco per festeggiare due anni di Coderdojo insieme, di maxmaz&lt;/h5&gt;
 
-&lt;p&gt;Here is an example of a Tweet announcing OpenTheme.&lt;/p&gt;
+&lt;p&gt;Questo tutorial utilizza gli elementi base di Scratch per creare un videogioco in cui un drago deve accendere tutte le candeline di una torta prima che una farfalla le spenga. Imparerai come controllare dei personaggi e farli interagire tra loro.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Create Awesome Websites on GitHub for Free! &lt;a href=&quot;http://t.co/tXj8H17vZE&quot;&gt;http://t.co/tXj8H17vZE&lt;/a&gt; &lt;a href=&quot;http://t.co/2VCbLf0KrL&quot;&gt;pic.twitter.com/2VCbLf0KrL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Manav Sehgal (@manavsehgal) &lt;a href=&quot;https://twitter.com/manavsehgal/status/539376525720977410&quot;&gt;December 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Vai alla Guida, &lt;a href=&quot;https://drive.google.com/file/d/0B2acWmxEoKDkWVN3SDBkdUc5ZkE/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Tweet embed can be copied straight from Twitter embed link within a Tweet.&lt;/p&gt;
+&lt;p&gt;Per scaricare il progetto di partenza, &lt;a href=&quot;https://drive.google.com/open?id=0B2acWmxEoKDkcFAxX0R5dVZFVU0&amp;amp;authuser=0&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per scaricare il progetto finito, &lt;a href=&quot;https://drive.google.com/file/d/0B2acWmxEoKDkOGJGa0t3QlFvbTg&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per vedere il progetto online, &lt;a href=&quot;http://scratch.mit.edu/projects/47969402/&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2015/02/buoncompleannoCD.jpg&quot; alt=&quot;buoncompleannoCD&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/theme/2014/11/29/starter-post-twitter-embed/</link>
-        <guid isPermaLink="true">http://opentheme.co/theme/2014/11/29/starter-post-twitter-embed/</guid>
-        
-        <category>social</category>
-        
-        <category>embeds</category>
+        <pubDate>Tue, 17 Feb 2015 09:15:39 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/scratch-buono-compleanno-coderdojo-milano</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/scratch/tutorial/scratch-buono-compleanno-coderdojo-milano</guid>
         
         
-        <category>theme</category>
+        <category>news</category>
+        
+        <category>scratch</category>
+        
+        <category>tutorial</category>
         
       </item>
     
       <item>
-        <title>Design Goals for OpenTheme</title>
-        <description>&lt;p&gt;OpenTheme Design Goals are Rapid, Responsive, Reactive, Realtime, Reusable, and Relaxed.&lt;/p&gt;
+        <title>Minecraft modding: Minecraft: Hello World! Plugin Guide for Glowstone - Versione Linux</title>
+        <description>&lt;blockquote&gt;Guida allo sviluppo di Plugin Server per Minecraft.
 
-&lt;h3 id=&quot;responsive&quot;&gt;Responsive&lt;/h3&gt;
 
-&lt;p&gt;OpenTheme blog works well on multiple screen sizes. 
-Scaling content and features to Mobile, Tablet, Desktop form factors, 
-with zero to minimal effort on your part.&lt;/p&gt;
 
-&lt;p&gt;Just try it now. Resize your browser window and see how this post scales down/up 
-based on target browser or screen size. Even the features enable/disable based on
-what a particular screen size can accomodate. Like the menu for Templates shows
-icon and text on a larger screen, only icon on smaller ones.&lt;/p&gt;
+Credits: un ringraziamento a **Toto Castaldi** per il grande lavoro.
 
-&lt;h3 id=&quot;rapid&quot;&gt;Rapid&lt;/h3&gt;
 
-&lt;p&gt;We have a goal to achieve the &lt;em&gt;One Minute Content Workflow&lt;/em&gt; from creating a post to going live.&lt;/p&gt;
 
-&lt;p&gt;This one minute should take care of asset pipeline incluing HTML, JS, CSS, image pre-processing,
-testing your web app where tests are included, optimizing your assets where required,
-including features that you designed for, saving a version of GitHub, publishing to live.&lt;/p&gt;
+Versione per Linux&lt;/blockquote&gt;
 
-&lt;p&gt;We also want you to have the capability to author your website directly using GitHub web based editors.
-This means OpenTheme only uses markup, tags, conventions that are 100% GitHub whitelisted.
-That way you skip any pre-processing, Jekyll, or dev box requirements. &lt;strong&gt;GitHub is your Content Management System!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;reusable&quot;&gt;Reusable&lt;/h3&gt;
-
-&lt;p&gt;Every feature on OpenTheme is designed with reusability in mind.
-OpenTheme’s growing list of _includes are - tag lists, category lists, recent posts, top menu, 
-post side bar, page bar, post paginator, header, footer, and featured post.&lt;/p&gt;
-
-&lt;h3 id=&quot;reactive&quot;&gt;Reactive&lt;/h3&gt;
-
-&lt;p&gt;Reactive website or web apps behave like native desktop or mobile apps. 
-When an email arrives, your desktop or mobile just alerts you without any action from your end.
-Reactivity in web apps takes this concept to the next level. As it applies to even 
-upgrading the web app. Add a new feature, publish, and it becomes available to all
-users currently connected to your app.&lt;/p&gt;
-
-&lt;p&gt;We are currently exploring reactive frameworks including AngularJS, to identify the 
-best-fit for OpenTheme + GitHub stack. Stay tuned for more.&lt;/p&gt;
-
-&lt;h3 id=&quot;realtime&quot;&gt;Realtime&lt;/h3&gt;
-
-&lt;p&gt;When we have reactive web apps, we can start using them for realtime updates, like
-social streams, stock prices, weather updates, and such. Realtime content management,
-is an Opentheme feature in the idea stage. Follow developments and design discussions on 
-the &lt;a href=&quot;https://trello.com/b/Jm8UFV7p&quot;&gt;OpenTheme Trello Board&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;relaxed---convention-over-configuration-over-coding&quot;&gt;Relaxed - convention over configuration over coding&lt;/h3&gt;
-
-&lt;p&gt;We favor conventions that are intuitive, yet relaxed for flexibility.
-Like, all partials go into _includes folder, all templates in _layouts folder.
-Conventions are favored over configuration where these are popular, and well
-known patterns.&lt;/p&gt;
-
-&lt;p&gt;Relaxed because, you can decide to follow conventions, 
-intuitively default to known patterns (example - global configuration), 
-or create your own (example - your own data structures in _data folder).&lt;/p&gt;
-
-&lt;p&gt;Configuration in _config.yml and frontmatter is used where 
-it adds to ease of content creation and design.&lt;/p&gt;
-
-&lt;p&gt;Coding follows best practices from top GitHub libraries like Semantic UI 
-and projects like Jekyll that OpenTheme has as dependencies.&lt;/p&gt;
+&lt;p&gt;http://youtu.be/u1uYFSqEFkQ&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
-        <link>http://opentheme.co/strategy/2014/11/29/design-goals-for-opentheme/</link>
-        <guid isPermaLink="true">http://opentheme.co/strategy/2014/11/29/design-goals-for-opentheme/</guid>
-        
-        <category>design</category>
-        
-        <category>patterns</category>
+        <pubDate>Fri, 07 Nov 2014 09:10:26 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/minecraft%20modding/news/tutorial/minecraft-hello-world-plugin-guide-for-glowstone-versione-linux</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/minecraft%20modding/news/tutorial/minecraft-hello-world-plugin-guide-for-glowstone-versione-linux</guid>
         
         
-        <category>strategy</category>
+        <category>minecraft modding</category>
+        
+        <category>news</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Html: Sushi Cards HTML: il mio primo sito web</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/html_sushi01-270x300.jpg&quot; alt=&quot;html_sushi01&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt; _Le Sushi Card sono una serie di schede rivolte a coloro che desiderano realizzare il proprio primo sito web._
+
+
+
+_In progressione e con semplicità si affrontano i principali concetti del linguaggio Html e dei Css._
+
+
+
+_Per seguire il percorso è sufficiente scaricare, oltre alle schede che trovate sotto, la cartella compressa chiamata &#39;Materiale&#39; che contiene già il file Html iniziale sulla base del quale si procederà poi alla costruzione dell&#39;intero sito._
+
+
+
+_Nella stessa cartella sono presenti un file Css che verrà successivamente modificato e personalizzato oltre ad una cartella con i file delle immagini utilizzate nel corso del lavoro._
+
+_ _
+
+_Ogni scheda si presenta come una singola lezione e dovrebbero essere utilizzate in sequenza._&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/01-Modifica-una-pagina-web.pdf&quot;&gt;01-Modifica una pagina web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/02-Crea-una-nuova-pagina-web.pdf&quot;&gt;2-Crea una nuova pagina web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/03-Crea-l-home-page.pdf&quot;&gt;03-Crea l-home page&lt;/a&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/04-aggiungi-dello-stile.pdf&quot;&gt;04-aggiungi-dello-stile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/05-Collega-le-pagine.pdf&quot;&gt;05-Collega le pagine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/06-Dai-stile-al-menu.pdf&quot;&gt;06-Dai stile al menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/07-Diamo-stile-ai-link-del-menu.pdf&quot;&gt;07-Diamo stile ai link del menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/08-Identifichiamo-il-menu.pdf&quot;&gt;08-Identifichiamo il menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/09-Diventa-Responsive.pdf&quot;&gt;09-Diventa Responsive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/10-Aggiungi-una-tabella.pdf&quot;&gt;10-Aggiungi una tabella&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/11-Crea-cruciverba.pdf&quot;&gt;11-Crea cruciverba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/Materiale.zip&quot;&gt;Materiale&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 07 Nov 2014 08:43:23 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/html/news/tutorial/il-mio-primo-sito-web</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/html/news/tutorial/il-mio-primo-sito-web</guid>
+        
+        
+        <category>html</category>
+        
+        <category>news</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>News: Coderdojo Milano @Google 25 Ottobre #GFEWeek</title>
+        <description>&lt;p&gt;di Max Mazzieri&lt;/p&gt;
+
+&lt;p&gt;8.30 del mattino, centro di Milano.
+Se durante la settimana a quest’ora c’è già un traffico impossibile, al sabato in questa zona di uffici è come fosse l’alba. Le uniche figure che si aggirano tra strade deserte e negozi ancora chiusi siamo noi: i mentor diretti all’evento coderdojo@Google for Entrepreneurs Week Italia 2014.&lt;/p&gt;
+
+&lt;p&gt;Davanti alla sede Google ci accoglie un… camion dei traslochi!
+Niente paura. Alfredo, il nostro “contatto” Google ci tranquillizza. Stanno effettivamente cambiando sede, ma per oggi il nostro evento è garantito, anzi… abbiamo gli uffici tutti per noi!
+Saliamo schivando qualche armadio ambulante diretto già alla nuova sede e raggiungiamo la sala. E’ ampia e accogliente e, soprattutto, è piena di frigoriferi con cibi e bevande! :P&lt;/p&gt;
+
+&lt;p&gt;Il programma della giornata prevede di giocare con le schede Makey Makey e Scratch e di creare con i circuiti morbidi, ossia batterie, motorini, didò e led colorati.&lt;/p&gt;
+
+&lt;p&gt;Abbiamo appena il tempo di organizzare i tavoli e distribuire il materiale che i bambini cominciano ad arrivare. Giampiero e Fabio, improvvisatisi steward si occupano dell’accoglienza distribuendo le magliette dell’evento offerte da Google.&lt;/p&gt;
+
+&lt;p&gt;Non ho il tempo di terminare il solito discorso di benvenuto che Jacopo, uno dei mini-mentor, prende in mano la situazione (e il microfono!) dando subito le indicazioni fondamentali sull’uso dei circuiti morbidi. E’ il segnale di partenza.&lt;/p&gt;
+
+&lt;p&gt;Francesco e Roberto, i nostri “imbonitori” ai tavoli Makey Makey, fanno divertire i ragazzi facendo suonare la frutta&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/01_makeymakey.jpg&quot; alt=&quot;01_makeymakey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;e facendoli sfidare ad un gioco in stile Halloween dove si eliminano i mostri avversari toccandoli su… un foglio di carta!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/02_makeymakey.jpg&quot; alt=&quot;02_makeymakey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si scoprono così i misteri della conduzione elettrica dove tutto diventa alternativa alla tastiera e al mouse: una mela, della stagnola, la grafite, i mentor (sì anche noi siamo conduttori!).&lt;/p&gt;
+
+&lt;p&gt;Abbiamo poche schede ma a rotazione riusciamo a farle provare a tutti.&lt;/p&gt;
+
+&lt;p&gt;Agli altri tavoli grande successo dei circuiti morbidi con numerose fanboat costruite con bicchieri come scafo, motorini e cartoncino colorato come eliche.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/03_fanboat.jpg&quot; alt=&quot;03_fanboat&quot; /&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/04_fanboat.jpg&quot; alt=&quot;04_fanboat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Da segnalare anche la variante “spara-pongo” dove le eliche servono per lanciare palline di didò contro l’avversario. Qualcuno riesce anche ad improvvisare una ruota con i tappi delle batterie e costruisce un vero robot itinerante. E poi tante luminarie simil-natalizie, abatjour di halloween e qualche inevitabile cortocircuito. Ma meno del previsto grazie agli avvertimenti e al controllo degli instancabili mini-mentor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/05_morbidi.jpg&quot; alt=&quot;05_morbidi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alla fine alcune composizioni sono un tale groviglio di componenti che quando è ora di smontare, ne osservo una preoccupato e mi domando… ma taglio prima il filo rosso o il filo blu? :D&lt;/p&gt;
+
+&lt;p&gt;Fantastici come sempre tutti i mentor. In particolare i nuovi arrivati che si sono lanciati subito nella mischia e, non solo sono sopravvissuti, ma hanno anche dato prova di grande disinvoltura sia con l’HW che con i bambini. I veterani invece, con la scusa di mostrare degli esempi, si sono divertiti come matti contendendo le componenti ai bambini.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/06_mentor.jpg&quot; alt=&quot;06_mentor&quot; /&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/07-mentor.jpg&quot; alt=&quot;07 mentor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eccezionale infine l’ospitalità di Google con merende a volontà ed erogazione continua di bevande e caffè per tutta la mattinata. Genitori, mentor e bambini, nessuno di noi ha fatto complimenti e abbiamo risparmiato a Google la fatica di traslocare nella nuova sede anche tutti quei beni alimentari! ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157649009369161/&quot;&gt;Clicca qui per vedere tutte le foto del Dojo&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 16:39:14 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/coderdojo-milano-google-25-ottobre-gfeweek</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/coderdojo-milano-google-25-ottobre-gfeweek</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>News: Foto: Coderdojo Milano @Google 25 Ottobre #GFEWeek</title>
+        <description>&lt;blockquote&gt;Le foto di Coderdojo Milano @Google del 25 Ottobre in occasione della Google for Entrepreneurs week 2014&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157649009369161/&quot;&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/gfe01.jpg&quot; alt=&quot;&quot; /&gt;Clicca qui per vedere le foto flickr.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 Oct 2014 08:57:01 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>News: La mia creazione a Roma. Un robot realizzato con Arduino.</title>
+        <description>&lt;p&gt;Sono Valeria Cagnina, ho 13 anni e frequento il Coderdojo Milano ogni volta che posso: mi piace tantissimo la programmazione ma ancora di più il maker.&lt;/p&gt;
+
+&lt;p&gt;Giovedì 16 ottobre, in occasione della Settimana del Codice sono stata invitata a “&lt;strong&gt;CodeIT in Rome”&lt;/strong&gt; nella sala della sede italiana del Parlamento Europeo a Roma. Vi rendete conto? L’Agenda Digitale Italiana, quella del governo all’interno della quale lavora &lt;a href=&quot;http://blog.lilianamonticone.com/festa-della-rete-quintarelli/&quot;&gt;Stefano Quintarelli che ho già avuto modo di conoscere a Rimini alla Festa della Rete&lt;/a&gt; ed è una persona splendida!&lt;/p&gt;
+
+&lt;p&gt;Ho tenuto la mia parte di talk insieme a Agnese Addone, la Champion di Coderdojo Italia che ha spiegato un po’ cos’è il Coderdojo e come funzionano questi “clubs”. Il talk è stato abbastanza breve rispetto al tempo che mi avevano messo a disposizione ad esempio &lt;a href=&quot;http://blog.lilianamonticone.com/talk-di-valeria-idcamp14-todiappydays/&quot;&gt;a Todi in occasione del’Appydays&lt;/a&gt; (dove il mio talk durava quasi mezz’ora), perché eravamo davvero in tanti, ma ho avuto il tempo di presentarmi, di presentare la realtà del Coderdojo Milano che è davvero unica, e di far vedere il mio robot o, come mi piace definirlo, “la mia creazione”!&lt;/p&gt;
+
+&lt;p&gt;Tutti guardavano con interesse il mio robottino, lo fotografavano, lo filmavano e mi facevano un sacco di domande su come lo avessi realizzato. La cosa che stupiva maggiormente erano i miei 13 anni. Pensate che &lt;a href=&quot;http://www.dols.it/2014/10/17/piccole-dols-crescono/&quot;&gt;Dol’s Magazine ha persino fatto un post su di me e sul mio intervento&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;A Roma ho avuto anche la possibilità di incontrare &lt;strong&gt;Riccardo Luna, **l’Italian Digital Champion&lt;/strong&gt;. **Anche lui mi ha fatto un sacco di complimenti e gli sono piaciute un po’ tutte le cose che faccio: dal fatto di essere la più giovane travel blogger d’Italia alla mia passione per Arduino.&lt;/p&gt;
+
+&lt;p&gt;Gli interventi che parlavano di scuola e di digitale sono stati davvero tanti e uno più interessante dell’altro, purtroppo la realtà che presentavano, spesso riferendosi a Roma o Milano, è molto distante da quella di Alessandria, ma… per fortuna Milano è solo a un’ora da casa mia!&lt;/p&gt;
+
+&lt;p&gt;Mi ha colpito particolarmente l’intervento di una ragazza di GirlGeekLife, un magazine al femminile di ragazze a cui piace l’informatica. Noi in classe siamo solo 3 e ho scoperto che le percentuali femminili sono un po’ le stesse in tutte le scuole e anche nel mondo del lavoro.&lt;/p&gt;
+
+&lt;p&gt;Mi ha interessato molto il suo intervento. Affermava che le femmine non sono meno intelligenti dei maschi ed invitava a lasciar stare tutte le cose che hanno a che fare con il rosa e coi brillantini, più o meno quello che ho sempre pensato io, che non ho mai voluto vestirmi di rosa!&lt;/p&gt;
+
+&lt;p&gt;Devo davvero ringraziare di cuore il Coderdojo che mi ha fatto scoprire un mondo unico, i mentor e tutti quelli che mi hanno supportato nella realizzazione del robot. Un grazie enorme va soprattutto &lt;strong&gt;Roberto Previtera&lt;/strong&gt;, una persona disponibile e paziente che mi ha seguito - ma sempre senza aiutarmi! - fino a quando il robot non ha funzionato!&lt;/p&gt;
+
+&lt;p&gt;E’ stata una splendida opportunità. Arrivederci a presto al prossimo Maker!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Valeria Cagnina&lt;/strong&gt;
+&lt;a href=&quot;https://www.facebook.com/valeria.cagnina&quot;&gt;Facebook
+&lt;/a&gt;&lt;a href=&quot;https://twitter.com/ValeriaCagnina&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;http://youtu.be/_V0cs4qCXTE&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 10:46:39 +0200</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/la-mia-creazione-a-roma-un-robot-realizzato-con-arduino</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/la-mia-creazione-a-roma-un-robot-realizzato-con-arduino</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>News: Surfer Dojo, 11 ottobre @WCAP</title>
+        <description>&lt;p&gt;di Filippo Selden&lt;/p&gt;
+
+&lt;p&gt;Il primo Surfer era stato all’insegna del divertimento e aveva raggiunto due obiettivi: spiegare il nuovo spirito dei Dojo e gettare le base per nuovi progetti. Mentre la parola d’ordine del secondo Surfer Dojo a Working Capital è stata collaborazione.&lt;/p&gt;
+
+&lt;p&gt;Inizialmente sembrava che i ragazzi non riuscissero a decidere che progetti perseguire. Forse l’imbarazzo o il clima scozzese avevano annebbiato il loro spirito d’iniziativa.&lt;/p&gt;
+
+&lt;p&gt;Finalmente dopo i soliti discorsi motivazionali di noi mentor, Alex è salito in cattedra è ha esposto alcune sue idee. Un tower defense game da realizzare in Java e poi un software di sincronizzazione file tra diversi sistemi operativi. Del resto siam mica qui a tagliar bordi ai toast!&lt;/p&gt;
+
+&lt;p&gt;Intanto trai tavoli si stavano creando già dei gruppi di lavoro spontanei. Gabriele sull’unico Mac presente ha affascinato tutti con The Game of Life di Conway, un simulatore di organismi unicellulari che ha quasi commosso il nostro mentor Stefano.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157646547925793/&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3938/15558281036_b982e133c0_z.jpg&quot; alt=&quot;Surfer&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157646547925793/&quot;&gt;clicca per vedere le foto&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Due ragazzi, Fabio e Stefano, si sono decisi a sperimentare con l’HTML e in totale autonomia si sono scaricati le Sushi Card dal sito di CoderDojo per fare il loro primo sito web. Una lotta laboriosa contro fogli di stile css, tag html e immagini di sfondo che non ne volevano comparire.&lt;/p&gt;
+
+&lt;p&gt;Intanto Alex creava consenso intorno al suo gioco in Java dirottando i suoi nuovi amici verso un nuovo tavolo.  Cinque eroici ragazzi alle prese con Java. Un nuovo gruppo di lavoro, molto motivato e già organizzato. Non solo si sono scambiati le mail, ma hanno anche creato un gruppo di lavoro su Google Drive per condividere i documenti. Si sono dati perfino un nome, “Coso Martello”, pare ispirato da un porta penne a forma di martello che era sul tavolo.&lt;/p&gt;
+
+&lt;p&gt;Il nostro mentor Stefano intanto spiegava l’anima della programmazione ad altri due ragazzi che studiano infromatica, spaziando dal teorema di Fermat ad Asteroids.&lt;/p&gt;
+
+&lt;p&gt;Alle 17:30 erano ancora tutti intenti a discutere e a scambiarsi informazioni. Nessuno voleva più andare via. Anche il tavolo con la merenda è stato snobbato ;)&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Oct 2014 13:27:55 +0200</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/news/surfer-dojo-11-ottobre-wcap</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/surfer-dojo-11-ottobre-wcap</guid>
+        
+        
+        <category>news</category>
         
       </item>
     

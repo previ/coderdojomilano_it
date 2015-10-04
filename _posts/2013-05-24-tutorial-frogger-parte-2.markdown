@@ -1,27 +1,20 @@
 ---
+author: admin
+comments: false
+date: 2013-05-24 06:50:59+00:00
 layout: post
-status: publish
-published: true
-title: Tutorial Frogger &ndash; Parte 2
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
+slug: tutorial-frogger-parte-2
+title: Tutorial Frogger – Parte 2
 wordpress_id: 1244
-wordpress_url: http://coderdojomilano.it/?p=1244
-date: '2013-05-24 07:50:59 +0200'
-date_gmt: '2013-05-24 06:50:59 +0200'
 categories:
-- News
-- Video
 - Eventi passati
-- Tutorial
+- News
 - Scratch
-tags: []
-comments: []
+- Tutorial
+- Video
 ---
-<blockquote>Non perdetevi la seconda parte del tutorial per realizzare il mitico videogioco anni '80 Frogger. E quando lo avete completato, aiutate la rana a superare gli ostacoli e a raggiungere la sua tana!<&#47;blockquote><br />
-http:&#47;&#47;youtu.be&#47;94rFDo0s-bM</p>
+
+<blockquote>Non perdetevi la seconda parte del tutorial per realizzare il mitico videogioco anni '80 Frogger. E quando lo avete completato, aiutate la rana a superare gli ostacoli e a raggiungere la sua tana!</blockquote>
+
+
+http://youtu.be/94rFDo0s-bM

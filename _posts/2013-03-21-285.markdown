@@ -1,30 +1,31 @@
 ---
+author: admin
+comments: false
+date: 2013-03-21 12:19:30+00:00
 layout: post
-status: publish
-published: true
+slug: '285'
 title: Coderdojo Milano su Repubblica.it
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
 wordpress_id: 285
-wordpress_url: http://127.0.0.1:4001/wordpress/?p=285
-date: '2013-03-21 13:19:30 +0100'
-date_gmt: '2013-03-21 12:19:30 +0100'
 categories:
 - News
 - Rassegna Stampa
-tags: []
-comments: []
 ---
-<p>Oggi l'articolo di Repubblica.it su Coderdojo Milano ha guadagnato la prima pagina del giornale online e la nostra pagina Facebook &egrave; stata inondata di like. Grazie a tutti.<br />
-Stiamo lavorando per ampliare il numero di posti disponibili gi&agrave; a partire dal 20 Aprile.<br />
-State sintonizzati su queste pagine per ricevere gli aggiornamenti!</p>
-<div>
-<div>
-<div dir="ltr"><a title="Repubblica.it" href="http:&#47;&#47;www.repubblica.it&#47;tecnologia&#47;2013&#47;03&#47;12&#47;news&#47;bambini_programmatori-54394224&#47;" target="_blank">"Che bravo il mio bambino, il videogioco lo ha scritto lui" - Repubblica.it<&#47;a><&#47;div><br />
-<&#47;div><br />
-<&#47;div></p>
+
+Oggi l'articolo di Repubblica.it su Coderdojo Milano ha guadagnato la prima pagina del giornale online e la nostra pagina Facebook è stata inondata di like. Grazie a tutti.
+Stiamo lavorando per ampliare il numero di posti disponibili già a partire dal 20 Aprile.
+State sintonizzati su queste pagine per ricevere gli aggiornamenti!
+
+
+
+
+
+
+
+
+["Che bravo il mio bambino, il videogioco lo ha scritto lui" - Repubblica.it](http://www.repubblica.it/tecnologia/2013/03/12/news/bambini_programmatori-54394224/)
+
+
+
+
+
+

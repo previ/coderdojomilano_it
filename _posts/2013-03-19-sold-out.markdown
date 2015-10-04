@@ -1,25 +1,19 @@
 ---
+author: admin
+comments: false
+date: 2013-03-19 18:20:15+00:00
 layout: post
-status: publish
-published: true
+slug: sold-out
 title: Sold Out!
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
 wordpress_id: 253
-wordpress_url: http://127.0.0.1:4001/wordpress/?p=253
-date: '2013-03-19 19:20:15 +0100'
-date_gmt: '2013-03-19 18:20:15 +0100'
 categories:
 - News
-tags: []
-comments: []
 ---
-<p>Un po' lo speravamo, ma certo non ci aspettavamo che in meno di 2 giorni i 20 posti che avevamo messo a disposizione per il prossimo Coderdojo del 20 Aprile andassero esauriti.</p>
-<p>In ogni caso, per chi fosse ancora interessato a registrarsi, stiamo cercando una soluzione per estendere il numero di posti disponibili. Tenete d'occhio queste pagine per avere un aggiornamento.</p>
-<p><em>E nel frattempo ... un grosso <strong>GRAZIE<&#47;strong>! a tutti voi che state sostenendo questa iniziativa.<&#47;em></p>
-<p><a href="http:&#47;&#47;coderdojomilano.it&#47;wp-content&#47;uploads&#47;2013&#47;03&#47;sold_out.jpg"><img class="alignnone size-full wp-image-254" alt="Sold Out" src="http:&#47;&#47;coderdojomilano.it&#47;wp-content&#47;uploads&#47;2013&#47;03&#47;sold_out.jpg" width="248" height="167" &#47;><&#47;a></p>
+
+Un po' lo speravamo, ma certo non ci aspettavamo che in meno di 2 giorni i 20 posti che avevamo messo a disposizione per il prossimo Coderdojo del 20 Aprile andassero esauriti.
+
+In ogni caso, per chi fosse ancora interessato a registrarsi, stiamo cercando una soluzione per estendere il numero di posti disponibili. Tenete d'occhio queste pagine per avere un aggiornamento.
+
+_E nel frattempo ... un grosso **GRAZIE**! a tutti voi che state sostenendo questa iniziativa._
+
+[![Sold Out](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out.jpg)

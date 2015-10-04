@@ -1,89 +1,31 @@
-  {% include head.html %}
-  <style>
-  .post .postbar {
-    margin: 0em;
-    padding: 1rem;
-  }
-  
-  .post .postbar .column {
-    margin-bottom: 1em;
-  }
-  
-  .post .image {
-    margin-bottom: 1em;
-  }
+---
+layout: default
+---
 
-  </style>
+{% include wrap.html %}
 
-  </head>
-  
-  <body class="global post">
-    <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+<div class="container mtb">
+    <div class="row">
+        <! -- SINGLE POST -->
+        <div class="col-lg-8">
+            <! -- Blog Post  -->
+            <p><img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
+            <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
+            <p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
+              
+            {{ content }}
 
-    {% if site.facebook %}
-      {% include fb-setup.html %}
-    {% endif %}
-    
-    {% if site.pagebar %}
-    {% include page-bar.html %}
-    <div class="pusher">
-    {% endif %}
-        {% include post-header.html %}
-        <div class="ui vertical segment">
-          <div class="ui very relaxed stackable page grid">
-            {% if site.postbar %}
-            <div class="ten wide column">
-            {% else %}
-            <div class="sixteen wide column">
-            {% endif %}
-                {% if page.image %}
-                <img class="ui rounded image" src="{{ page.image }}" alt="{{ page.title }}">
-                {% endif %}
-                {{ content }}
-                {% include posts-paginator.html %}
+            <div class="spacing"></div>
+            <!-- <h6>SHARE:</h6>
+            <p class="share">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-tumblr"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>		 		
+            </p> -->
+        </div><! --/col-lg-8 -->
+        
+        {% include sidebar.html %}
 
-                {% if site.comments == 'disqus' %}
-                  <div class="ui divider"></div>
-                  {% include disqus.html %}
-                {% elsif site.facebook and site.comments == 'facebook' %}
-                  <div class="ui divider"></div>
-                  {% include fb-comments.html %}
-                {% endif %}
-
-            </div>
-            {% if site.postbar %}
-            <div class="six wide column">
-                {% include post-bar.html %}
-            </div>
-            {% endif %}
-          </div>
-        </div>
-        {% include footer.html %}
-    {% if site.pagebar %}
-    </div> <!-- pusher -->
-    {% endif %}
-
-    {% include js.html %}
-
-    <script>
-    $(document).ready(function() {
-    
-      $(".time").text(function (index, value) {
-        return Math.round(parseFloat(value));
-      });
-      
-    });
-    </script>
-    
-    {% if site.addthis_pubid %}
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_pubid }}" async="async"></script>
-    {% endif %}
-    
-    {% include embed-google-analytics.html %}
-
- </body>
-
-</html>
+    </div><! --/row -->
+</div><! --/container -->

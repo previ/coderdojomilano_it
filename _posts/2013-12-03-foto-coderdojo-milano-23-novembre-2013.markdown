@@ -1,24 +1,19 @@
 ---
+author: admin
+comments: false
+date: 2013-12-03 07:38:01+00:00
 layout: post
-status: publish
-published: true
+slug: foto-coderdojo-milano-23-novembre-2013
 title: 'Foto: CoderDojo Milano 23 Novembre 2013'
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
 wordpress_id: 1665
-wordpress_url: http://coderdojomilano.it/?p=1665
-date: '2013-12-03 09:38:01 +0100'
-date_gmt: '2013-12-03 07:38:01 +0100'
 categories:
-- News
 - Eventi passati
-tags: []
-comments: []
+- News
 ---
-<blockquote>Le foto di Sabato 23 Novembre 2013: CoderDojo Milano in TAG<&#47;blockquote></p>
-<div class="flickr"><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;98942956@N02&#47;sets&#47;72157638012435796&#47;" target="_blank"><img alt="" src="http:&#47;&#47;coderdojomilano.it&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;tag_novembre.jpg" &#47;><span class="flickrText">Clicca qui per vedere le foto <&#47;span><span class="flickrName">flickr.com<&#47;span><&#47;a><&#47;div></p>
+
+<blockquote>Le foto di Sabato 23 Novembre 2013: CoderDojo Milano in TAG</blockquote>
+
+
+
+
+[![](http://coderdojomilano.it/wp-content/uploads/2013/12/tag_novembre.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157638012435796/)

@@ -1,30 +1,28 @@
 ---
+author: admin
+comments: false
+date: 2014-04-03 06:16:22+00:00
 layout: post
-status: publish
-published: true
+slug: tutorial-scratch-base-3-contaccinella
 title: 'Tutorial: Scratch Base 3 - Contaccinella'
-author:
-  display_name: CoderDojo Milano
-  login: admin
-  email: coderdojomi@gmail.com
-  url: ''
-author_login: admin
-author_email: coderdojomi@gmail.com
 wordpress_id: 1846
-wordpress_url: http://coderdojomilano.it/?p=1846
-date: '2014-04-03 08:16:22 +0200'
-date_gmt: '2014-04-03 06:16:22 +0200'
 categories:
-- Tutorial
 - Scratch
-tags: []
-comments: []
+- Tutorial
 ---
-<h5>Impariamo a usare le variabili e gli operatori in Scratch.<&#47;h5><br />
-Questo tutorial, attraverso la realizzazione di un gioco, insegna come utilizzare dei valori che cambiano durante la partita (variabili) e come combinarli tra loro con delle operazioni matematiche e logiche (operatori).<br />
-In particolare: come si crea una variabile, come si valorizza, come si usa nei blocchi Scratch, come usare un operatore</p>
-<p>Vai alla Guida,&nbsp;<a href="https:&#47;&#47;drive.google.com&#47;file&#47;d&#47;0B2acWmxEoKDkODBqdXAzZGJMZjQ&#47;edit?usp=sharing" target="_blank">clicca QUI<&#47;a></p>
-<p>Per scaricare il progetto finito,&nbsp;<a href="https:&#47;&#47;drive.google.com&#47;file&#47;d&#47;0B2acWmxEoKDkVFJyTVAybXJ1Qzg&#47;edit?usp=sharing" target="_blank">clicca QUI<&#47;a></p>
-<p>Per vedere il progetto online,&nbsp;<a href="http:&#47;&#47;scratch.mit.edu&#47;projects&#47;18283098&#47;" target="_blank">clicca QUI<&#47;a></p>
-<p>&nbsp;</p>
-<p><img class="alignnone size-full wp-image-1847" src="http:&#47;&#47;coderdojomilano.it&#47;wp-content&#47;uploads&#47;2014&#47;04&#47;SC_PB_S3_contaccinella.png" alt="SC_PB_S3_contaccinella" width="481" height="399" &#47;></p>
+
+##### Impariamo a usare le variabili e gli operatori in Scratch.
+
+
+Questo tutorial, attraverso la realizzazione di un gioco, insegna come utilizzare dei valori che cambiano durante la partita (variabili) e come combinarli tra loro con delle operazioni matematiche e logiche (operatori).
+In particolare: come si crea una variabile, come si valorizza, come si usa nei blocchi Scratch, come usare un operatore
+
+Vai alla Guida, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkODBqdXAzZGJMZjQ/edit?usp=sharing)
+
+Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkVFJyTVAybXJ1Qzg/edit?usp=sharing)
+
+Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/18283098/)
+
+
+
+![SC_PB_S3_contaccinella](http://coderdojomilano.it/wp-content/uploads/2014/04/SC_PB_S3_contaccinella.png)
