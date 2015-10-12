@@ -5,9 +5,23 @@
     <description>Awesome description of CoderDojo Milano site</description>
     <link>http://previ.github.io/coderdojomilano_it/</link>
     <atom:link href="http://previ.github.io/coderdojomilano_it/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Oct 2015 08:48:20 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2015 08:48:20 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2015 09:48:07 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2015 09:48:07 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Eventi in programma: CoderDojo il 17 ottobre in Tag</title>
+        <description>&lt;p&gt;Il prossimo coderdojo si terrà in Tag etc, etc.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 10 Oct 2015 12:35:22 +0200</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/eventi%20in%20programma/coderdojo-17%20ottobre-in-tag</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/eventi%20in%20programma/coderdojo-17%20ottobre-in-tag</guid>
+        
+        
+        <category>eventi in programma</category>
+        
+      </item>
     
       <item>
         <title>Resources: Quiz  - TUTORIAL per SCRATCH 2.0 e MakeyMakey</title>
@@ -399,22 +413,6 @@ Saliamo schivando qualche armadio ambulante diretto già alla nuova sede e raggi
         <pubDate>Fri, 31 Oct 2014 16:39:14 +0100</pubDate>
         <link>http://previ.github.io/coderdojomilano_it/news/coderdojo-milano-google-25-ottobre-gfeweek</link>
         <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/coderdojo-milano-google-25-ottobre-gfeweek</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>News: Foto: Coderdojo Milano @Google 25 Ottobre #GFEWeek</title>
-        <description>&lt;blockquote&gt;Le foto di Coderdojo Milano @Google del 25 Ottobre in occasione della Google for Entrepreneurs week 2014&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157649009369161/&quot;&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/10/gfe01.jpg&quot; alt=&quot;&quot; /&gt;Clicca qui per vedere le foto flickr.com&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 29 Oct 2014 08:57:01 +0100</pubDate>
-        <link>http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</link>
-        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</guid>
         
         
         <category>news</category>

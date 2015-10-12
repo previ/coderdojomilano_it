@@ -13,7 +13,13 @@
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">Home</a></li>
-        <li {% if page.title == "Calendario eventi" %}class="active"{% endif %}><a href="{{"/events/" | prepend: site.baseurl }}">Calendario eventi</a></li>
+        <li class="dropdown {% if page.title == 'Calendario eventi' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Calendario eventi<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/events-calendar/" | prepend: site.baseurl }}">Eventi in programma</a></li>
+            <li><a href="{{"/events-past/" | prepend: site.baseurl }}">Eventi passati</a></li>
+          </ul>
+        </li>        
         <li class="dropdown {% if page.title == 'Chi siamo' %} active{% endif %}">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Chi siamo<span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -31,9 +37,9 @@
         <li class="dropdown {% if page.title == 'Risorse' %} active{% endif %}">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Risorse<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/category/tutorial/">Tutorial</a></li>
+            <li><a href="{{"/category/#tutorial" | prepend: site.baseurl }}">Tutorial</a></li>
             <li><a href="http://kata.coderdojo.com/wiki/KataItalia">Kata Italia</a></li>
-            <li><a href="/category/tutorial/">Rassegna tool</a></li>
+            <li><a href="{{"/category/#tutorial" | prepend: site.baseurl }}">Rassegna tool</a></li>
           </ul>
         </li>        
         <li class="dropdown {% if page.title == 'Contatti' %} active{% endif %}">
