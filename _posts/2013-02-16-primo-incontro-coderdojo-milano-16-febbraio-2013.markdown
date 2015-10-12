@@ -6,6 +6,7 @@ layout: post
 slug: primo-incontro-coderdojo-milano-16-febbraio-2013
 title: Primo Incontro CoderDojo Milano,  16 febbraio 2013
 img: event_03.jpg
+thumb: event_03.jpg
 wordpress_id: 309
 categories:
 - Eventi passati

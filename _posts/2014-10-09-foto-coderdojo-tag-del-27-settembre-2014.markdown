@@ -6,6 +6,7 @@ layout: post
 slug: foto-coderdojo-tag-del-27-settembre-2014
 title: 'Foto: CoderDojo @TAG del 27 Settembre 2014'
 img: event_02.jpg
+thumb: event_02.jpg
 wordpress_id: 2290
 categories:
 - Eventi passati

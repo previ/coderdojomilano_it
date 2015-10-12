@@ -6,6 +6,7 @@ layout: post
 slug: surfer-dojo-11-ottobre-wcap
 title: Surfer Dojo, 11 ottobre @WCAP
 img: event_01.jpg
+thumb: event_01.jpg
 wordpress_id: 2318
 categories:
 - Eventi passati

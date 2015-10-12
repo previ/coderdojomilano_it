@@ -7,6 +7,7 @@ slug: foto-coderdojo-7-giugno-2014-wcap
 title: 'Foto: Coderdojo 7 Giugno 2014  @WCAP'
 wordpress_id: 1878
 img: event_04.jpg
+thumb: event_04.jpg
 categories:
 - Eventi passati
 - News

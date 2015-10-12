@@ -7,6 +7,7 @@ slug: foto-coderdojo-milano-12-aprile-2014-con-ubisoft-italia
 title: 'Foto: Coderdojo Milano 12 Aprile 2014  con Ubisoft Italia'
 wordpress_id: 1857
 img: event_06.jpg
+thumb: event_06.jpg
 categories:
 - Eventi passati
 - News

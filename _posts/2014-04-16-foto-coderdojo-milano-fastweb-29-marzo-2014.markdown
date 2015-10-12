@@ -7,6 +7,7 @@ slug: foto-coderdojo-milano-fastweb-29-marzo-2014
 title: 'Foto: Coderdojo Milano @Fastweb 29 Marzo 2014'
 wordpress_id: 1853
 img: event_07.jpg
+thumb: event_07.jpg
 categories:
 - Eventi passati
 ---

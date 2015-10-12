@@ -7,6 +7,7 @@ slug: foto-coderdojo-14-giugno-2014-tag
 title: 'Foto: Coderdojo 14 Giugno 2014  @TAG'
 wordpress_id: 1892
 img: event_03.jpg
+thumb: event_03.jpg
 categories:
 - Eventi passati
 - News
