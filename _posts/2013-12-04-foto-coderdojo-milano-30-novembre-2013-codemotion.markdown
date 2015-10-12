@@ -6,6 +6,7 @@ layout: post
 slug: foto-coderdojo-milano-30-novembre-2013-codemotion
 title: 'Foto: CoderDojo Milano 30 Novembre 2013 @Codemotion'
 wordpress_id: 1672
+img: event_10.jpg
 categories:
 - Eventi passati
 - News

@@ -8,7 +8,7 @@ title: '"Che bravo il mio bambino,  videogioco se lo è scritto lui"'
 wordpress_id: 146
 categories:
 - News
-- Rassegna Stampa
+- Rassegna stampa
 ---
 
 <blockquote>

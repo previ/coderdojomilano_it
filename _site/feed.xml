@@ -5,9 +5,38 @@
     <description>Awesome description of CoderDojo Milano site</description>
     <link>http://previ.github.io/coderdojomilano_it/</link>
     <atom:link href="http://previ.github.io/coderdojomilano_it/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Oct 2015 00:34:13 +0200</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2015 00:34:13 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2015 08:48:20 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2015 08:48:20 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Resources: Quiz  - TUTORIAL per SCRATCH 2.0 e MakeyMakey</title>
+        <description>&lt;h5 id=&quot;tutorial-per-scratch-20-e-makeymakey-di-ernesto&quot;&gt;TUTORIAL per SCRATCH 2.0 e MakeyMakey di Ernesto&lt;/h5&gt;
+
+&lt;p&gt;Questo tutorial insegna come creare, con Scratch e la MakeyMakey, una sfida tra due giocatori a colpi di quiz.&lt;/p&gt;
+
+&lt;p&gt;Verrà presentata una serie di domande con due risposte possibili. Ogni giocatore ha a disposizione due pulsanti corrispondenti alle due possibili risposte. Il giocatore che per primo dà la risposta si vede assegnare un punto se la risposta è corretta, o assegna un punto all’avversario se la risposta è errata.&lt;/p&gt;
+
+&lt;p&gt;Vai alla Guida, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0cG9QOS1vWndVczg/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per scaricare il progetto di partenza, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0STg1VWxtdHBOVmc/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per scaricare il progetto finito, &lt;a href=&quot;https://drive.google.com/file/d/0B28j76gOGeg0UUMzSkJ3cUJOVGs/view?usp=sharing&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per vedere il progetto online, &lt;a href=&quot;http://scratch.mit.edu/projects/53734736/&quot;&gt;clicca QUI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2015/03/quiz.jpg&quot; alt=&quot;quiz&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 11:08:37 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/resources/tutorial/quiz-tutorial-per-scratch-2-0-e-makeymakey</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/resources/tutorial/quiz-tutorial-per-scratch-2-0-e-makeymakey</guid>
+        
+        
+        <category>resources</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>News: Quiz  - TUTORIAL per SCRATCH 2.0 e MakeyMakey</title>
@@ -205,6 +234,64 @@ Versione per Linux&lt;/blockquote&gt;
       </item>
     
       <item>
+        <title>Resources: Sushi Cards HTML: il mio primo sito web</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/html_sushi01-270x300.jpg&quot; alt=&quot;html_sushi01&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt; _Le Sushi Card sono una serie di schede rivolte a coloro che desiderano realizzare il proprio primo sito web._
+
+
+
+_In progressione e con semplicità si affrontano i principali concetti del linguaggio Html e dei Css._
+
+
+
+_Per seguire il percorso è sufficiente scaricare, oltre alle schede che trovate sotto, la cartella compressa chiamata &#39;Materiale&#39; che contiene già il file Html iniziale sulla base del quale si procederà poi alla costruzione dell&#39;intero sito._
+
+
+
+_Nella stessa cartella sono presenti un file Css che verrà successivamente modificato e personalizzato oltre ad una cartella con i file delle immagini utilizzate nel corso del lavoro._
+
+_ _
+
+_Ogni scheda si presenta come una singola lezione e dovrebbero essere utilizzate in sequenza._&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/01-Modifica-una-pagina-web.pdf&quot;&gt;01-Modifica una pagina web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/02-Crea-una-nuova-pagina-web.pdf&quot;&gt;2-Crea una nuova pagina web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/03-Crea-l-home-page.pdf&quot;&gt;03-Crea l-home page&lt;/a&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/04-aggiungi-dello-stile.pdf&quot;&gt;04-aggiungi-dello-stile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/05-Collega-le-pagine.pdf&quot;&gt;05-Collega le pagine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/06-Dai-stile-al-menu.pdf&quot;&gt;06-Dai stile al menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/07-Diamo-stile-ai-link-del-menu.pdf&quot;&gt;07-Diamo stile ai link del menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/08-Identifichiamo-il-menu.pdf&quot;&gt;08-Identifichiamo il menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/09-Diventa-Responsive.pdf&quot;&gt;09-Diventa Responsive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/10-Aggiungi-una-tabella.pdf&quot;&gt;10-Aggiungi una tabella&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/11-Crea-cruciverba.pdf&quot;&gt;11-Crea cruciverba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/Materiale.zip&quot;&gt;Materiale&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 07 Nov 2014 08:43:23 +0100</pubDate>
+        <link>http://previ.github.io/coderdojomilano_it/resources/tutorial/html/il-mio-primo-sito-web</link>
+        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/resources/tutorial/html/il-mio-primo-sito-web</guid>
+        
+        
+        <category>resources</category>
+        
+        <category>tutorial</category>
+        
+        <category>html</category>
+        
+      </item>
+    
+      <item>
         <title>Html: Sushi Cards HTML: il mio primo sito web</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://coderdojomilano.it/wp-content/uploads/2014/11/html_sushi01-270x300.jpg&quot; alt=&quot;html_sushi01&quot; /&gt;&lt;/p&gt;
 
@@ -328,76 +415,6 @@ Saliamo schivando qualche armadio ambulante diretto già alla nuova sede e raggi
         <pubDate>Wed, 29 Oct 2014 08:57:01 +0100</pubDate>
         <link>http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</link>
         <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/foto-coderdojo-milano-google-25-ottobre-gfeweek</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>News: La mia creazione a Roma. Un robot realizzato con Arduino.</title>
-        <description>&lt;p&gt;Sono Valeria Cagnina, ho 13 anni e frequento il Coderdojo Milano ogni volta che posso: mi piace tantissimo la programmazione ma ancora di più il maker.&lt;/p&gt;
-
-&lt;p&gt;Giovedì 16 ottobre, in occasione della Settimana del Codice sono stata invitata a “&lt;strong&gt;CodeIT in Rome”&lt;/strong&gt; nella sala della sede italiana del Parlamento Europeo a Roma. Vi rendete conto? L’Agenda Digitale Italiana, quella del governo all’interno della quale lavora &lt;a href=&quot;http://blog.lilianamonticone.com/festa-della-rete-quintarelli/&quot;&gt;Stefano Quintarelli che ho già avuto modo di conoscere a Rimini alla Festa della Rete&lt;/a&gt; ed è una persona splendida!&lt;/p&gt;
-
-&lt;p&gt;Ho tenuto la mia parte di talk insieme a Agnese Addone, la Champion di Coderdojo Italia che ha spiegato un po’ cos’è il Coderdojo e come funzionano questi “clubs”. Il talk è stato abbastanza breve rispetto al tempo che mi avevano messo a disposizione ad esempio &lt;a href=&quot;http://blog.lilianamonticone.com/talk-di-valeria-idcamp14-todiappydays/&quot;&gt;a Todi in occasione del’Appydays&lt;/a&gt; (dove il mio talk durava quasi mezz’ora), perché eravamo davvero in tanti, ma ho avuto il tempo di presentarmi, di presentare la realtà del Coderdojo Milano che è davvero unica, e di far vedere il mio robot o, come mi piace definirlo, “la mia creazione”!&lt;/p&gt;
-
-&lt;p&gt;Tutti guardavano con interesse il mio robottino, lo fotografavano, lo filmavano e mi facevano un sacco di domande su come lo avessi realizzato. La cosa che stupiva maggiormente erano i miei 13 anni. Pensate che &lt;a href=&quot;http://www.dols.it/2014/10/17/piccole-dols-crescono/&quot;&gt;Dol’s Magazine ha persino fatto un post su di me e sul mio intervento&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;A Roma ho avuto anche la possibilità di incontrare &lt;strong&gt;Riccardo Luna, **l’Italian Digital Champion&lt;/strong&gt;. **Anche lui mi ha fatto un sacco di complimenti e gli sono piaciute un po’ tutte le cose che faccio: dal fatto di essere la più giovane travel blogger d’Italia alla mia passione per Arduino.&lt;/p&gt;
-
-&lt;p&gt;Gli interventi che parlavano di scuola e di digitale sono stati davvero tanti e uno più interessante dell’altro, purtroppo la realtà che presentavano, spesso riferendosi a Roma o Milano, è molto distante da quella di Alessandria, ma… per fortuna Milano è solo a un’ora da casa mia!&lt;/p&gt;
-
-&lt;p&gt;Mi ha colpito particolarmente l’intervento di una ragazza di GirlGeekLife, un magazine al femminile di ragazze a cui piace l’informatica. Noi in classe siamo solo 3 e ho scoperto che le percentuali femminili sono un po’ le stesse in tutte le scuole e anche nel mondo del lavoro.&lt;/p&gt;
-
-&lt;p&gt;Mi ha interessato molto il suo intervento. Affermava che le femmine non sono meno intelligenti dei maschi ed invitava a lasciar stare tutte le cose che hanno a che fare con il rosa e coi brillantini, più o meno quello che ho sempre pensato io, che non ho mai voluto vestirmi di rosa!&lt;/p&gt;
-
-&lt;p&gt;Devo davvero ringraziare di cuore il Coderdojo che mi ha fatto scoprire un mondo unico, i mentor e tutti quelli che mi hanno supportato nella realizzazione del robot. Un grazie enorme va soprattutto &lt;strong&gt;Roberto Previtera&lt;/strong&gt;, una persona disponibile e paziente che mi ha seguito - ma sempre senza aiutarmi! - fino a quando il robot non ha funzionato!&lt;/p&gt;
-
-&lt;p&gt;E’ stata una splendida opportunità. Arrivederci a presto al prossimo Maker!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Valeria Cagnina&lt;/strong&gt;
-&lt;a href=&quot;https://www.facebook.com/valeria.cagnina&quot;&gt;Facebook
-&lt;/a&gt;&lt;a href=&quot;https://twitter.com/ValeriaCagnina&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;http://youtu.be/_V0cs4qCXTE&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Oct 2014 10:46:39 +0200</pubDate>
-        <link>http://previ.github.io/coderdojomilano_it/news/la-mia-creazione-a-roma-un-robot-realizzato-con-arduino</link>
-        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/la-mia-creazione-a-roma-un-robot-realizzato-con-arduino</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>News: Surfer Dojo, 11 ottobre @WCAP</title>
-        <description>&lt;p&gt;di Filippo Selden&lt;/p&gt;
-
-&lt;p&gt;Il primo Surfer era stato all’insegna del divertimento e aveva raggiunto due obiettivi: spiegare il nuovo spirito dei Dojo e gettare le base per nuovi progetti. Mentre la parola d’ordine del secondo Surfer Dojo a Working Capital è stata collaborazione.&lt;/p&gt;
-
-&lt;p&gt;Inizialmente sembrava che i ragazzi non riuscissero a decidere che progetti perseguire. Forse l’imbarazzo o il clima scozzese avevano annebbiato il loro spirito d’iniziativa.&lt;/p&gt;
-
-&lt;p&gt;Finalmente dopo i soliti discorsi motivazionali di noi mentor, Alex è salito in cattedra è ha esposto alcune sue idee. Un tower defense game da realizzare in Java e poi un software di sincronizzazione file tra diversi sistemi operativi. Del resto siam mica qui a tagliar bordi ai toast!&lt;/p&gt;
-
-&lt;p&gt;Intanto trai tavoli si stavano creando già dei gruppi di lavoro spontanei. Gabriele sull’unico Mac presente ha affascinato tutti con The Game of Life di Conway, un simulatore di organismi unicellulari che ha quasi commosso il nostro mentor Stefano.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157646547925793/&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3938/15558281036_b982e133c0_z.jpg&quot; alt=&quot;Surfer&quot; /&gt;
-&lt;/a&gt;&lt;a href=&quot;https://www.flickr.com/photos/98942956@N02/sets/72157646547925793/&quot;&gt;clicca per vedere le foto&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Due ragazzi, Fabio e Stefano, si sono decisi a sperimentare con l’HTML e in totale autonomia si sono scaricati le Sushi Card dal sito di CoderDojo per fare il loro primo sito web. Una lotta laboriosa contro fogli di stile css, tag html e immagini di sfondo che non ne volevano comparire.&lt;/p&gt;
-
-&lt;p&gt;Intanto Alex creava consenso intorno al suo gioco in Java dirottando i suoi nuovi amici verso un nuovo tavolo.  Cinque eroici ragazzi alle prese con Java. Un nuovo gruppo di lavoro, molto motivato e già organizzato. Non solo si sono scambiati le mail, ma hanno anche creato un gruppo di lavoro su Google Drive per condividere i documenti. Si sono dati perfino un nome, “Coso Martello”, pare ispirato da un porta penne a forma di martello che era sul tavolo.&lt;/p&gt;
-
-&lt;p&gt;Il nostro mentor Stefano intanto spiegava l’anima della programmazione ad altri due ragazzi che studiano infromatica, spaziando dal teorema di Fermat ad Asteroids.&lt;/p&gt;
-
-&lt;p&gt;Alle 17:30 erano ancora tutti intenti a discutere e a scambiarsi informazioni. Nessuno voleva più andare via. Anche il tavolo con la merenda è stato snobbato ;)&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 20 Oct 2014 13:27:55 +0200</pubDate>
-        <link>http://previ.github.io/coderdojomilano_it/news/surfer-dojo-11-ottobre-wcap</link>
-        <guid isPermaLink="true">http://previ.github.io/coderdojomilano_it/news/surfer-dojo-11-ottobre-wcap</guid>
         
         
         <category>news</category>

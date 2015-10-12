@@ -6,6 +6,7 @@ layout: post
 slug: foto-coderdojo-milano-tag-15-marzo-2014
 title: 'Foto: Coderdojo Milano @TAG 15 Marzo 2014'
 wordpress_id: 1816
+img: event_08.jpg
 categories:
 - Eventi passati
 ---

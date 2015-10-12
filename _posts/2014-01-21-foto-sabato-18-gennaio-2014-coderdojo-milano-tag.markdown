@@ -6,6 +6,7 @@ layout: post
 slug: foto-sabato-18-gennaio-2014-coderdojo-milano-tag
 title: 'Foto: Sabato 18 Gennaio 2014, CoderDojo Milano @Tag'
 wordpress_id: 1725
+img: event_09.jpg
 categories:
 - Eventi passati
 - News

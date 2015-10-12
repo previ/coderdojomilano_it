@@ -6,6 +6,7 @@ layout: post
 slug: foto-coderdojo-milano-18-maggio-2014-wnf2014
 title: 'Foto: Coderdojo 18 Maggio 2014  @WNF2014'
 wordpress_id: 1867
+img: event_05.jpg
 categories:
 - Eventi passati
 - News

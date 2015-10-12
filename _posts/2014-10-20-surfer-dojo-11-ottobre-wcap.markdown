@@ -5,9 +5,10 @@ date: 2014-10-20 11:27:55+00:00
 layout: post
 slug: surfer-dojo-11-ottobre-wcap
 title: Surfer Dojo, 11 ottobre @WCAP
+img: event_01.jpg
 wordpress_id: 2318
 categories:
-- News
+- Eventi passati
 ---
 
 di Filippo Selden

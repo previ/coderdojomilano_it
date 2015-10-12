@@ -7,7 +7,7 @@ slug: lo-scoiattolo-gigante
 title: 'Lo scoiattolo gigante '
 wordpress_id: 381
 categories:
-- News
+- progetti
 - Video
 ---
 
